@@ -15,7 +15,7 @@ body {
 
 body {
     position: relative;
-    font-family: "Roboto", sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 body::before {
@@ -47,9 +47,13 @@ body::before {
     align-items: center;
     padding-block: 0.5rem;
     padding-inline: var(--side-padding);
-    /*background: rgb(237, 237, 237, 0.8);
-    border-radius: 6px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);*/
+
+    h1 {
+        font-family: "Imperial Script", cursive;
+        font-size: 3rem;
+        font-weight: bold;
+        margin: 0;
+    }
 }
 
 nav {
@@ -74,7 +78,12 @@ nav {
 
 .page-title {
     padding-inline: var(--side-padding);
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
 }
+
+/*INDEX, WYPIEKI, VEGE*/
 
 .card {
     display: flex;
@@ -114,40 +123,36 @@ nav {
 
 .card-title {
     font-size: 1rem;
-    font-weight: 700;
+    font-weight: 600;
     padding-block: 1rem;
     padding-inline: var(--side-padding);
 }
 
-.post-content {
-    padding-inline: var(--side-padding);
-
-    p {
-        padding-block: 0.5rem;
-    }
-
-    img {
-        width: 50%;
-        height: auto;
-        padding-inline: auto;
-        object-fit: cover;
-    }
-}
-
 /*RECIPE*/
 
-.hero-recipe {
+.recipe {
+    display: flex;
+    flex-direction: column;
+    background: rgb(237, 237, 237, 0.9);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.recipe-hero {
     display: grid;
-    /*gap: 2rem;*/
 
     grid-template-columns: repeat(
         auto-fit,
         minmax(min(var(--min-col-size), 100%), 1fr)
     );
-    background: rgb(237, 237, 237, 0.9);
-    border-radius: 6px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+
+    p {
+        align-self: center;
+        justify-self: center;
+        padding: 1rem 1rem;
+        text-indent: 1.5em;
+    }
 
     img {
         width: 100%;
@@ -155,13 +160,39 @@ nav {
         object-fit: cover;
         border-radius: 6px;
     }
+}
+
+.recipe-description {
+    padding: 1rem;
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        line-height: 2;
+    }
+
+    ul li:first-child,
+    ul li:last-child {
+        font-weight: bold;
+        padding: 1rem;
+    }
 
     p {
-        align-self: center;
-        text-align: center;
-        padding-inline: 1rem;
+        padding-block: 1rem;
+        text-indent: 1.5em;
+    }
+
+    img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 6px;
     }
 }
+
+/*ABOUT*/
 
 .about-txt {
     padding-inline: var(--side-padding);
@@ -170,7 +201,10 @@ nav {
 .write-me {
     padding-block: 1rem;
     padding-inline: var(--side-padding);
-    color: red;
+
+    a:hover {
+        color: #007bff;
+    }
 }
 
 footer {
