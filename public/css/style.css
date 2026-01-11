@@ -194,8 +194,7 @@ footer {
         inset: 0;
         background:
             linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.7)),
-            url("/moje-wypieki/public/img/bckgr.webp") top left / cover
-                no-repeat;
+            url("/public/img/bckgr.webp") top left / cover no-repeat;
         z-index: -1;
     }
 
