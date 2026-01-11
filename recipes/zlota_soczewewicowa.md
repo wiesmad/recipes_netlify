@@ -11,7 +11,7 @@ imageAlt: złota soczewicowa
 <div class="recipe">
     <div class="recipe-hero">
         <p>Ta zupa z czerwonej soczewicy, to łatwe, szybkie danie, które łączy prostotę domowej kuchni z aromatami orientalnymi.
-        Kurkuma nadająca złoty kolor, aromatyczne przyprawy i warzywa tworzą harmonijną całość, która nie tylko smakuje, ale też odżywia.
+        Kurkuma nadająca <a href="#modal1" class="modal-link">złoty</a> kolor, aromatyczne przyprawy i warzywa tworzą harmonijną całość, która nie tylko smakuje, ale też odżywia.
         To danie roślinne, lekkostrawne i bogate w białko, które świetnie sprawdzi się o każdej porze roku, a szczególnie w zimowe wieczory.</p>
         <img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">
     </div>
