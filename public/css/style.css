@@ -180,7 +180,7 @@ nav {
     }
 
     p {
-        padding-block: 1rem;
+        padding-bottom: 1rem;
         text-indent: 1.5em;
     }
 
@@ -196,10 +196,11 @@ nav {
 
 .about-txt {
     padding-inline: var(--side-padding);
+    text-indent: 1.5em;
 }
 
 .write-me {
-    padding-block: 1rem;
+    padding-top: 3rem;
     padding-inline: var(--side-padding);
 
     a:hover {

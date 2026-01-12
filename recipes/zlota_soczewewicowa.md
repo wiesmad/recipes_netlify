@@ -39,6 +39,6 @@ imageAlt: złota soczewicowa
         </p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Doprawić solą, pieprzem i chilli i odstawić na 15 min.</p>
-        <p>Gotowe!</p>
+        <p>Przepis ze strony: <i>jadłonomia.com </i></p>
     </div>
 </div>
