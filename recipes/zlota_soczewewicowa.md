@@ -1,6 +1,6 @@
 ---
 title: Złota soczewicowa
-date: 2024-11-03
+date: 2026-01-11
 tags: ['vege']
 image: zl_soczew.webp
 imageAlt: złota soczewicowa
@@ -18,7 +18,7 @@ imageAlt: złota soczewicowa
     <div class="recipe-description">
         <ul>
             <li>Składniki:</li>
-            <li>350 g czerwonej soczewicy</li>
+            <li>350g czerwonej soczewicy</li>
             <li>1 cebula</li>
             <li>3 ząbki czosnku</li>
             <li>3 łyżki startego imbiru</li>
@@ -27,7 +27,7 @@ imageAlt: złota soczewicowa
             <li>1½ litra bulionu warzywnego</li>
             <li>3 łyżki sosu sojowego</li>
             <li>3 łyżki soku z cytryny</li>
-            <li>400 ml mleka kokosowego (1 puszka)</li>
+            <li>400ml mleka kokosowego (1 puszka)</li>
             <li>pęczek koperku</li>
             <li>olej do smażenia</li>
             <li>liście kaffiru lub skórka z cytryny</li>

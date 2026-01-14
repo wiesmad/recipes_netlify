@@ -49,10 +49,13 @@ body::before {
     padding-inline: var(--side-padding);
 
     h1 {
-        font-family: "Imperial Script", cursive;
-        font-size: 3rem;
-        font-weight: bold;
-        margin: 0;
+        a {
+            font-family: "Imperial Script", cursive;
+            font-size: 3rem;
+            font-weight: bold;
+            color: hotpink;
+            margin: 0;
+        }
     }
 }
 
@@ -61,7 +64,7 @@ nav {
     gap: 1rem;
 
     a:hover {
-        color: #007bff;
+        color: hotpink;
     }
 }
 
@@ -181,7 +184,10 @@ nav {
 
     p {
         padding-bottom: 1rem;
-        text-indent: 1.5em;
+    }
+
+    p:first-of-type {
+        text-indent: 1.5rem;
     }
 
     img {
