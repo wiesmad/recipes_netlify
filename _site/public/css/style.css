@@ -210,7 +210,7 @@ nav {
     padding-inline: var(--side-padding);
 
     a:hover {
-        color: #007bff;
+        color: hotpink;
     }
 }
 
