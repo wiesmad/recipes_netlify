@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-title: Przepisy
+title: Farfalle
 ---
 
 <!-- CONTENT -->
@@ -14,8 +14,8 @@ title: Przepisy
             <img
                 src="/public/img/{{ recipe.data.image }}"
                 alt="{{ recipe.data.title }}"
-                loading="lazy"
-            />
+                fetchpriority="high"
+                decoding="async">
         </a>
         <h3 class="card-title">{{ recipe.data.title }}</h3>
     </article>

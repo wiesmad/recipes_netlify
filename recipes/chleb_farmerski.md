@@ -11,7 +11,7 @@ imageAlt: rajma
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.  
 Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.</p>
 
-<img src="/public/img/pizza.jpg" alt="pizza">
+<img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
 
 <p>Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</p>
 
