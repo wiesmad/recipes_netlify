@@ -11,7 +11,7 @@ imageAlt: spaghetti z bakłażanem
 <div class="recipe">
     <div class="recipe-hero">
         <p>Nie pamiętam gdzie znalazłem przepis na to danie, ale nieco je zmodyfikowałem. Zamiast tradydyjnego makaronu spaghetti, użyłem czarnego z dodatkiem sepii, która jest pozyskiwana z mątwy lub kałamarnicy. Dzięki temu makaron oprócz czarnego koloru ma wyraźny smak umami i lekki posmak rybny, który świetnie komponuje się z bakłażanem i cukinią, której również nie było w oryginalnym przepisie.</p>
-        <img src="/public/img/{{ image }}" alt="{{ imageAlt }}">
+        <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
     </div>
     <div class="recipe-description">
         <ul>

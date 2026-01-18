@@ -4,6 +4,7 @@ date: 2026-01-11
 tags: ['vege']
 image: zl_soczew.webp
 imageAlt: złota soczewicowa
+modal: dupa jaś
 ---
 
 <h1 class="page-title">{{ title }}</h1>
@@ -13,7 +14,7 @@ imageAlt: złota soczewicowa
         <p>Ta zupa z czerwonej soczewicy, to łatwe, szybkie danie, które łączy prostotę domowej kuchni z aromatami orientalnymi.
         Kurkuma nadająca <a href="#modal1" class="modal-link">złoty</a> kolor, aromatyczne przyprawy i warzywa tworzą harmonijną całość, która nie tylko smakuje, ale też odżywia.
         To danie roślinne, lekkostrawne i bogate w białko, które świetnie sprawdzi się o każdej porze roku, a szczególnie w zimowe wieczory.</p>
-        <img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">
+        <img src="/public/img/zl_soczew.webp" alt="złota soczewicowa" loading="lazy">
     </div>
     <div class="recipe-description">
         <ul>
@@ -42,3 +43,5 @@ imageAlt: złota soczewicowa
         <p>Przepis ze strony: <i>jadłonomia.com </i></p>
     </div>
 </div>
+
+{% include "partials/modal.njk" %}

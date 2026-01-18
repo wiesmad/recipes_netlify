@@ -63,7 +63,8 @@ nav {
     display: flex;
     gap: 1rem;
 
-    a:hover {
+    a:hover,
+    a:focus {
         color: hotpink;
     }
 }

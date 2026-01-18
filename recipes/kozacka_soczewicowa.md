@@ -12,7 +12,7 @@ imageAlt: kozacka soczewicowa
     <div class="recipe-hero">
         <p>To moja ulubiona zupa na bazie zielonej soczewicy i warzyw, którą gotuję jako konkretne, roślinne danie jednogarnkowe. Aromatyczne przyprawy i lekko wędzony, korzenny charakter, zapewnia zupie głęboki smak. 
         Sprawdza się jako pełnoprawny obiad lub kolacja, szczególnie wtedy, gdy mam ochotę na coś prostego, ale treściwego i wyrazistego.</p>
-        <img src="/public/img/koz_soczew.webp" alt="kozacka soczewicowa">
+        <img src="/public/img/koz_soczew.webp" alt="kozacka soczewicowa" loading="lazy">
     </div>
     <div class="recipe-description">
         <ul>

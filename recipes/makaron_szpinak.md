@@ -11,7 +11,7 @@ imageAlt: makaron ze szpinakiem
 <div class="recipe">
     <div class="recipe-hero">
         <p>Jest wiele przepisów na szpinak z makaronem w sosie śmietananowym, wiele się od siebie nie różnią. Po latach wypracowałem własną recepturę, która zawsze się sprawdza. Aby uzyskać kremowy, gładki i gęsty sos, używam śmietanki UHT 18%. Składnikiem, który zagęszcza i emulguje sos jest skrobia zawarta w wodzie, w której gotujemy makaron. Najbardziej wartościowa jest piana tworząca się na powierzchni wrzącej wody. Im lepszy makaron, tym bardziej obfita i gęstsza.</p>
-        <img src="/public/img/{{ image }}" alt="{{ imageAlt }}">
+        <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
     </div>
     <div class="recipe-description">
         <ul>
