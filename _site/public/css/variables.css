@@ -1,6 +1,6 @@
 :root {
     --color-background: #007bff;
-    --min-col-size: 200px; /*recipe-grid*/
+    --min-col-size: 250px; /*recipe-grid*/
     --side-padding: 1rem;
 }
 
