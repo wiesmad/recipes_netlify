@@ -1,69 +1,66 @@
 <!doctype html>
 <html lang="pl">
     <head>
-        <head>
-    <!-- Podstawy -->
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- Podstawy -->
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <!-- SEO: tytuł i opis -->
-    <title>{{ page_title }} | Farfalle – przepisy, wypieki i kuchnia vege</title>
-    <meta name="description" content="{{ meta_description | default: 'Farfalle – autorskie przepisy, domowe wypieki i kuchnia vege. Prosto, sezonowo i bez zbędnej teorii.' }}" />
+        <!-- SEO: tytuł i opis -->
+        <title>{{ page_title }} | Farfalle – przepisy, wypieki i kuchnia vege</title>
+        <meta name="description" content="{{ meta_description | default: 'Farfalle – autorskie przepisy, domowe wypieki i kuchnia vege. Prosto, sezonowo i bez zbędnej teorii.' }}" />
 
-    <!-- SEO: indeksowanie -->
-    <meta name="robots" content="index, follow" />
-    <link rel="canonical" href="{{ canonical_url }}" />
+        <!-- SEO: indeksowanie -->
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href="{{ canonical_url }}" />
 
-    <!-- Open Graph -->
-    <meta property="og:site_name" content="Farfalle" />
-    <meta property="og:title" content="{{ og_title | default: page_title }}" />
-    <meta property="og:description" content="{{ og_description | default: meta_description }}" />
-    <meta property="og:type" content="{{ og_type | default: 'website' }}" />
-    <meta property="og:url" content="{{ canonical_url }}" />
-    <meta property="og:image" content="{{ og_image | default: '/public/img/og-default.jpg' }}" />
+        <!-- Open Graph -->
+        <meta property="og:site_name" content="Farfalle" />
+        <meta property="og:title" content="{{ og_title | default: page_title }}" />
+        <meta property="og:description" content="{{ og_description | default: meta_description }}" />
+        <meta property="og:type" content="{{ og_type | default: 'website' }}" />
+        <meta property="og:url" content="{{ canonical_url }}" />
+        <meta property="og:image" content="{{ og_image | default: '/public/img/og-default.jpg' }}" />
 
-    <!-- Twitter / X -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="{{ og_title | default: page_title }}" />
-    <meta name="twitter:description" content="{{ og_description | default: meta_description }}" />
-    <meta name="twitter:image" content="{{ og_image | default: '/public/img/og-default.jpg' }}" />
+        <!-- Twitter / X -->
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="{{ og_title | default: page_title }}" />
+        <meta name="twitter:description" content="{{ og_description | default: meta_description }}" />
+        <meta name="twitter:image" content="{{ og_image | default: '/public/img/og-default.jpg' }}" />
 
-    <!-- Ikony -->
-    <link rel="icon" href="/public/img/favicon.png" type="image/png" />
-    <link rel="apple-touch-icon" href="/public/img/apple-touch-icon.png" />
+        <!-- Ikony -->
+        <link rel="icon" href="/public/img/favicon.png" type="image/png" />
+        <link rel="apple-touch-icon" href="/public/img/apple-touch-icon.png" />
 
-    <!-- Performance: fonty -->
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-        href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Montserrat:wght@400;500;600;700&display=swap"
-        rel="stylesheet"
-    />
+        <!-- Performance: fonty -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Imperial+Script&family=Montserrat:wght@400;500;600;700&display=swap"
+            rel="stylesheet"
+        />
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="/public/css/variables.css" />
-    <link rel="stylesheet" href="/public/css/style.css" />
-    <link rel="stylesheet" href="/public/css/modal.css" />
+        <!-- CSS -->
+        <link rel="stylesheet" href="/public/css/variables.css" />
+        <link rel="stylesheet" href="/public/css/style.css" />
+        <link rel="stylesheet" href="/public/css/modal.css" />
 
-    <!-- JS -->
-    <script src="/public/js/script.js" defer></script>
+        <!-- JS -->
+        <script src="/public/js/script.js" defer></script>
 
-    <!-- Dane strukturalne: Website (globalne) -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "name": "Farfalle",
-      "url": "{{ site_url }}",
-      "inLanguage": "pl-PL"
-    }
-    </script>
+        <!-- Dane strukturalne: Website (globalne) -->
+        <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "WebSite",
+          "name": "Farfalle",
+          "url": "{{ site_url }}",
+          "inLanguage": "pl-PL"
+        }
+        </script>
 
-    <!-- Dane strukturalne: Recipe (tylko na stronach przepisów) -->
-    {{ recipe_schema | safe }}
-</head>
-
+        <!-- Dane strukturalne: Recipe (tylko na stronach przepisów) -->
+        {{ recipe_schema | safe }}
     </head>
     <body>
         <div class="container">
@@ -91,8 +88,8 @@
             <main>{{ content | safe }}</main>
         </div>
 
-        <footer>
-            <p>&copy; 2026 Farfalle</p>
-        </footer>
+    <footer>
+        <p>&copy; 2026 Farfalle. Wszelkie prawa zastrzeżone. Właściciel: Wiesław Mazurak. Hosting: Netlify.</p>
+    </footer>
     </body>
 </html>

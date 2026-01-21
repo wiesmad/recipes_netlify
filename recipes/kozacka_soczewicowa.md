@@ -6,7 +6,7 @@ image: koz_soczew.webp
 imageAlt: kozacka soczewicowa
 ---
 
-<h1 class="page-title">{{ title }}</h1>
+<h2 class="page-title">{{ title }}</h2>
 
 <div class="recipe">
     <div class="recipe-hero">

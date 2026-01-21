@@ -6,12 +6,11 @@ image: sernik.webp
 imageAlt: sernik
 ---
 
-<h1 class="page-title">{{ title }}</h1>
+<h2 class="page-title">{{ title }}</h2>
 
 <div class="recipe">
     <div class="recipe-hero">
-        <p>Ogólnie to nie lubię piec ciast, za dużo z nimi roboty. Jak już, to szukam prostych, szybkich receptur. Taki właśnie jest ten sernik, który nazywam 'dla leniwych', gdyż można go przygotować w 10 minut, a resztę robi piekarnik. </p>
-        
+        <p>Ogólnie to nie lubię piec ciast, za dużo z nimi roboty. Jak już, to szukam prostych, szybkich receptur. Taki właśnie jest ten sernik, który nazywam 'dla leniwych', gdyż można go przygotować w 10 minut, a resztę robi piekarnik.</p>
         <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
     </div>
     <div class="recipe-description">

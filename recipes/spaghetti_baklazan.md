@@ -6,7 +6,7 @@ image: spaghetti_baklazan.webp
 imageAlt: spaghetti z bakłażanem
 ---
 
-<h1 class="page-title">{{ title }}</h1>
+<h2 class="page-title">{{ title }}</h2>
 
 <div class="recipe">
     <div class="recipe-hero">
