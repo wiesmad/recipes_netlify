@@ -1,5 +1,6 @@
 ---
 title: Chleb Żytni
+permalink: /chleb-zytni/
 date: 2026-01-19
 tags: ['wypieki']
 image: ch_zytni.webp

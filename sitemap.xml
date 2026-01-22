@@ -33,7 +33,61 @@
   </url>
 
   <url>
-    <loc>https://farfalle.pl/recipes/zlota_soczewicowa</loc>
+    <loc>https://farfalle.pl/zlota-soczewicowa</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/kozacka-soczewicowa/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/spaghetti-z-baklazanem/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/makaron-ze-szpinakiem/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/dutch-baby/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/sernik-pieczony/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/chleb-zytni/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/spaghetti-bolognese/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc>https://farfalle.pl/kalafior-pieczony/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
+  <url>
+    <loc />
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
  </url>
