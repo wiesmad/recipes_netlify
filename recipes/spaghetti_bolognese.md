@@ -1,5 +1,6 @@
 ---
-title: Spaghetti bolognese 
+title: Spaghetti bolognese
+permalink: /spaghetti-bolognese/
 date: 2026-01-21
 tags: ['makaron']
 image: spaghetti_bolognese.webp

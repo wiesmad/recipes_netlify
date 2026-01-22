@@ -1,5 +1,6 @@
 ---
 title: Złota soczewicowa
+permalink: /zlota-soczewicowa/
 date: 2026-01-11
 tags: ['vege']
 image: zl_soczew.webp

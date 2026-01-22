@@ -1,10 +1,10 @@
 ---
-title: Makaron ze szpinakiem
-permalink: /makaron-ze-szpinakiem/
-date: 2026-01-15
-tags: ['vege', 'makaron']
-image: makaron_szpinak.webp
-imageAlt: makaron ze szpinakiem
+title: Kalafior pieczony
+permalink: /kalafior-pieczony/
+date: 2026-01-22
+tags: ['vege']
+image: kalafior_piecz.webp
+imageAlt: kalafior pieczony
 ---
 
 <h2 class="page-title">{{ title }}</h2>

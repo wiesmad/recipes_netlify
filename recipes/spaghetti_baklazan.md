@@ -1,5 +1,6 @@
 ---
 title: Spaghetti z bakłażanem
+permalink: /spaghetti-z-baklazanem/
 date: 2026-01-13
 tags: ['vege', 'makaron']
 image: spaghetti_baklazan.webp

@@ -1,5 +1,6 @@
 ---
 title: Sernik pieczony
+permalink: /sernik-pieczony/
 date: 2026-01-18
 tags: ['wypieki']
 image: sernik.webp

@@ -1,5 +1,6 @@
 ---
 title: Kozacka soczewicowa
+permalink: /kozacka-soczewicowa/
 date: 2026-01-11
 tags: ['vege']
 image: koz_soczew.webp
