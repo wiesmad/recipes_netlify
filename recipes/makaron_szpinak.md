@@ -26,11 +26,10 @@ imageAlt: makaron ze szpinakiem
             <li>sól, pieprz do smaku</li>
             <li>Co i jak:</li>
         </ul>
-        <p>Wstawić wodę i dobrze ją posolić. Gdy się zagotuje, wspypać makaron, ustawić timer zgodnie z czasem podanym na opakowaniu minus 1 minuta (dobrze, aby było to ok. 10 minut). Nawet lekko rozgotowany makaron zepsuje nam danie, bo sos zostanie wchłonięty przez skrobię i makaron się sklei.
+        <p>Wstawić wodę i dobrze ją posolić. Gdy się zagotuje, wspypać makaron, ustawić timer zgodnie z czasem podanym na opakowaniu minus 1 minuta (dobrze, aby było to ok. 10 minut). Nawet lekko rozgotowany makaron zepsuje nam danie, bo sos zostanie wchłonięty przez skrobię i makaron się sklei.</p>
         <p>Pokroić drobno czosnek i wrzucić na rozgrzany w głębokiej patelni olej. Smażyć chwilkę, aż poczujemy woń czosnku, następnie wlać śmietaknkę i gotować na wolnym ogniu, ciągle mieszając, tak aby całość odparowała. Jeśli zrobi się zby gęsta dolewamy wody z gotującego się makaronu.</p>
-        </p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
-        <p>Gdy na timerze pozostanie czas ok. 2 minut, dodajemy liście szpinaku (ja obrywam wcześniej łodyżki) oraz pokrojone pomidory. Mieszamy, aby listki zmiękły. </p>
+        <p>Gdy na timerze pozostanie czas ok. 2 minut, dodajemy liście szpinaku (ja obrywam wcześniej łodyżki) oraz pokrojone pomidory. Mieszamy, aby listki zmiękły.</p>
         <p>Odlewamy makaron (cześć wody do szklanki) i wrzucamy go prosto na patelnię, dodajemy parmezan, pieprz, i odpowiednią ilość wody ze szklanki, aby podczas mieszania uzyskać odpowiednią konsystencję sosu.</p>
         <p>Uwaga! Uważamy z solą, gdyż woda, którą dodaliśmy była mocno posolona. Często w ogóle nie dodaje już soli.</p>
         
