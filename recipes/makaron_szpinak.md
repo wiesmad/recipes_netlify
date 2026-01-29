@@ -1,6 +1,7 @@
 ---
 title: Makaron ze szpinakiem
 permalink: /makaron-ze-szpinakiem/
+description: Przepis na makaron ze szpinakiem – aromatyczne danie z kremowym sosem i młodym szpinakiem. Idealne na szybki obiad.
 date: 2026-01-15
 tags: ['vege', 'makaron']
 image: makaron_szpinak.webp

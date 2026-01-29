@@ -1,6 +1,7 @@
 ---
 title: Omlet na słodko
 permalink: /omlet-na-slodko/
+description: Przepis na omlet na słodko – szybki i domowy pomysł na pyszne śniadanie lub deser. Idealny na weekend i ulubiony przez dzieci.
 date: 2026-01-25
 tags: ['wypieki']
 image: omlet_sl.webp
@@ -23,8 +24,8 @@ imageAlt: pizza
             <li>1 łyżka masła</li>
             <li>Co i jak:</li>
         </ul>
-        <p>Białka z jajek ubijamy na sztywną pianę. Dodajemy żółtka, mąkę i jogurt, po czym mieszamy dokladnie łyżką.</p>
-        <p>Na patelni roztapiamy masło i przekładamy masę jajeczną. Wyrónujemy łyżką, po czym skręcamy gaz do minimum i przykrywamy pokrywką. Po około 5 minutach, obracamy sprytnie łopatką nasz omlet i podkręcamy palnik na maksa. Pieczemy jeszcze z minutę, najlepiej nieco unieść brzeg, aby sprawdzić czy spód już się zrumienił.</p>
+        <p>Białka z jajek ubijamy na sztywną pianę. Dodajemy żółtka, mąkę i jogurt, po czym mieszamy dokładnie łyżką.</p>
+        <p>Na patelni roztapiamy masło i przekładamy masę jajeczną. Wyrównujemy łyżką, po czym skręcamy gaz do minimum i przykrywamy pokrywką. Po około 5 minutach, obracamy sprytnie łopatką nasz omlet i podkręcamy palnik na maksa. Pieczemy jeszcze z minutę, najlepiej nieco unieść brzeg, aby sprawdzić czy spód już się zrumienił.</p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Przekładamy omlet na talerz i dodajemy owoce, jogurt, cukier puder, cynamon, na co mamy ochotę.</p>
         

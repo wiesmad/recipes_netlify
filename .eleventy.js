@@ -1,6 +1,10 @@
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("public");
 
+  // Kopiuje pliki sitemap.xml i robots.txt bezpośrednio do folderu wyjściowego
+  eleventyConfig.addPassthroughCopy("sitemap.xml");
+  eleventyConfig.addPassthroughCopy("robots.txt");
+
   return {
     // ADD THESE TWO LINES:
     htmlTemplateEngine: "njk",

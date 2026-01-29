@@ -1,6 +1,7 @@
 ---
 title: Dutch Baby
 permalink: /dutch-baby/
+description: Dutch baby pancake – przepis na puszysty naleśnik pieczony. Szybkie i proste przygotowanie, idealny na śniadanie lub deser.
 date: 2026-01-18
 tags: ['wypieki']
 image: dutch_baby.webp
