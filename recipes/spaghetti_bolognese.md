@@ -38,8 +38,5 @@ imageAlt: spaghetti bolognese
         <p>Marchewkę i seler kroimy w drobniutką kostkę, dodajemy do garnkna, zalewamy winem i dusimy na małym ogniu co najmniej 1 godzinę</p>
         <p>Aby sos nabrał lepszej konsystencji i smaki się lepiej wymieszały, dobrze jest zamrozić go na noc.</p>
         <p>Makaron spaghetti, gotujemy w całości, w dobrze osolonej wodzie, nigdy dłużej niż podadany czas na opakowaniu. Dobrze ugotwany makaron nie wymaga hartowania, mieszania z olejem i tym podobnych zabiegów aby się nie sklejał. Wystarczy, że prosto z wody umieścimy porcję na talerzu, dodamy podgrzany sos, posypiemy parmezanem, zieloną pietruszką i świerzo mielonym pieprzem. Koniecznie z czerwonym winem. Buon appetito!</p>
-        
-        
-        <!--<p>Przepis ze strony: <i>jadłonomia.com </i></p>-->
     </div>
 </div>

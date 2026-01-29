@@ -38,7 +38,5 @@ imageAlt: spaghetti z bakłażanem
         <p>Na głębokiej patelni zeszklić cebulę i na koniec dodać na krótko posiekany czosnek. Wlać passatę przesmażyć kilka minut, dodać bakłażan z cukinią i dalej podgrzewać.</p>
         <p>Gdy makaron będzie gotowy, przełozyć prosto z wody na patelnię, dodać parmezan, bazylię i pół szklanki wody, w której gotował się makaron. Doprawić solą i pieprzem. Dokładnie wymieszać i podawać w głębokim talerzu.</p>
         <p>Cała sztuka polega na zsynchronizowaniu czasu kiedy makaron jest już gotowy i czasu przygotowania sosu.</p>
-        
-        <!--<p>Przepis ze strony: <i>jadłonomia.com </i></p>-->
     </div>
 </div>

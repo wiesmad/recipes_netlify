@@ -31,7 +31,5 @@ imageAlt: kalafior pieczony
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Różyczki układamy na blasze wyłożonej papierem do pieczenia i wstawiamy do piekarnika nagrzanego do 200 stopni na czas 30 minut.</p>
         <p>Kalafior można jeść na ciepło lub zimno, jako dodatek do dania głównego.</p>
-        
-        <!--<p>Przepis ze strony: <i>jadłonomia.com</i></p>-->
     </div>
 </div>

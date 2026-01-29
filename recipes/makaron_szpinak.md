@@ -33,7 +33,5 @@ imageAlt: makaron ze szpinakiem
         <p>Gdy na timerze pozostanie czas ok. 2 minut, dodajemy liście szpinaku (ja obrywam wcześniej łodyżki) oraz pokrojone pomidory. Mieszamy, aby listki zmiękły.</p>
         <p>Odlewamy makaron (cześć wody do szklanki) i wrzucamy go prosto na patelnię, dodajemy parmezan, pieprz, i odpowiednią ilość wody ze szklanki, aby podczas mieszania uzyskać odpowiednią konsystencję sosu.</p>
         <p>Uwaga! Uważamy z solą, gdyż woda, którą dodaliśmy była mocno posolona. Często w ogóle nie dodaje już soli.</p>
-        
-        <!--<p>Przepis ze strony: <i>jadłonomia.com</i></p>-->
     </div>
 </div>

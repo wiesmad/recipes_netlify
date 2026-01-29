@@ -35,7 +35,5 @@ imageAlt: rajma
         <p>Podgrzewać całość, ciągle mieszając, dodać drugą puszkę fasoli, tym razem musi być ona odsączona z zalewy.</p>
         <p>Potrzymać na ogniu jeszcze kilka minut.</p>
         <p>Przed podaniem, posypać świeżą kolendrą.</p>
-        
-        <!--<p>Przepis ze strony: <i>jadłonomia.com</i></p>-->
     </div>
 </div>

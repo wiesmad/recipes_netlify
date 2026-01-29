@@ -31,6 +31,5 @@ imageAlt: chleb żytni
         <p>Gdy ciasto zacznie wychodzić ponad brzegi foremki to znak, że trzeba włączyć piekarnik i nagrzać do 230 stopni.</p>
         <p>Chleb wkładamy na kratkę umieszczoną na dolnej prowadnicy, wlewamy do piekarnika pół szklanki wody i zamykamy. Ustawiamy timer na 50 minut. Można zajrzeć co jakiś czas i gdyby się okazało, że powierzchnia chleba ciemnieje zbyt szybko, zmniejszyć nieco temperaturę piekarnika. Gdy czas minie wyjmujemy foremkę i chleb powiniem sam wypaść po jej obróceniu. Wkładamy go z powrotem do piekarnika, ale już bez foremki, bezpośrednio na kratkę i pieczemy dodatkowe 10 minut w temperaturze 180 stopni.</p>
         <p>Po wyjęciu gotowego bochenka, kładziemy go na kratce i czekamy do całkowitego ostygnięcia. Tak wiem, to trudne, ale w przypadku chleba z mąki żytniej niezbędne.</p>
-        <!--<p>Przepis z książki: <i>Jadłonomia po polsku </i>Marty Dymek</p>-->
     </div>
 </div>

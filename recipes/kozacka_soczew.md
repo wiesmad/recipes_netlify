@@ -41,6 +41,6 @@ imageAlt: kozacka soczewicowa
         </p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Pozostałe przyprawy podsmażyć kilka minut na oleju w małej patelni, aż poczujemy wyraźny aromat, wtedy wrzucić zawartość patelni do zupy i wymieszać</p>
-        <p>Przepis z książki: <i>Jadłonomia po polsku </i>Marty Dymek</p>
+        <p>Przepis z książki: <i>Jadłonomia po polsku</i> Marty Dymek</p>
     </div>
 </div>

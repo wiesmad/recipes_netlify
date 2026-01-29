@@ -30,6 +30,6 @@ imageAlt: sernik
         <p>Małą tortownicę o średnicy 20 cm wysmarować masłem i obsypac maką kukurydzianą. Przelać do niej masę serową i wstawić do rozgrzanego do 170 stopni piekarnika i piec 90 minut.</p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Po wyjęciu ostudzic i posypac cukrem pudrem.</p>
-        <p>Przepis ze strony: <i>olgasmile.com</i></p>
+        <p>Przepis z bloga kulinarnego: <i>Olga Smile</i></p>
     </div>
 </div>
