@@ -4,7 +4,7 @@ permalink: /sernik-pieczony/
 description: Przepis na sernik pieczony – klasyczny, prosty sernik na szybko. Sprawdzone proporcje i wskazówki krok po kroku.
 date: 2026-01-18
 tags: ['wypieki']
-image: sernik.webp
+image: sernik-pieczony.webp
 imageAlt: sernik
 ---
 

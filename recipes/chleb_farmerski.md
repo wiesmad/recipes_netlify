@@ -4,7 +4,7 @@ permalink: /chleb-farmerski/
 description: Chleb farmerski – przepis na domowy, zdrowy, pszenny chleb na zakwasie. Chrupiąca skórka, wszyscy go uwielbiają.
 date: 2026-01-24
 tags: ['wypieki']
-image: ch_farmerski.webp
+image: chleb-farmerski.webp
 imageAlt: chleb farmerski
 ---
 

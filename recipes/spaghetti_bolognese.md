@@ -4,7 +4,7 @@ permalink: /spaghetti-bolognese/
 description: Przepis na Spaghetti Bolognese – klasyczny makaron z sosem bolońskim z mielonego mięsa, pomidorów. Ragoût miesno-warzywne.
 date: 2026-01-21
 tags: ['makaron']
-image: spaghetti_bolognese.webp
+image: spaghetti-bolognese.webp
 imageAlt: spaghetti bolognese
 ---
 

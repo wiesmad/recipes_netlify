@@ -4,7 +4,7 @@ permalink: /chleb-zytni/
 description: Chleb żytni – przepis na domowy, chleb na zakwasie. Szybkie przygotowanie, aromatyczny smak, idealny do kanapek i śniadań.
 date: 2026-01-19
 tags: ['wypieki']
-image: ch_zytni.webp
+image: chleb-zytni.webp
 imageAlt: chleb żytni
 ---
 

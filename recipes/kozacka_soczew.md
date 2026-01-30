@@ -4,7 +4,7 @@ permalink: /kozacka-soczewicowa/
 description: Kozacka soczewicowa - sprawdzony przepis na pyszną zupę z soczewicy. Prosta w przygotowaniu, pełna białka i rozgrzewających przypraw. Sprawdź, jak ją zrobić!
 date: 2026-01-11
 tags: ['vege']
-image: koz_soczew.webp
+image: kozacka-soczewicowa.webp
 imageAlt: kozacka soczewicowa
 ---
 
@@ -41,6 +41,6 @@ imageAlt: kozacka soczewicowa
         </p>
         <!--<img src="/public/img/zl_soczew.webp" alt="złota soczewicowa">-->
         <p>Pozostałe przyprawy podsmażyć kilka minut na oleju w małej patelni, aż poczujemy wyraźny aromat, wtedy wrzucić zawartość patelni do zupy i wymieszać</p>
-        <p>Przepis z książki: <i>Jadłonomia po polsku</i> Marty Dymek</p>
+        <p>Przepis z bloga: <i>Marta-Gotuje</i></p>
     </div>
 </div>

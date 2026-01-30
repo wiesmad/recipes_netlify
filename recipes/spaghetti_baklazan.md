@@ -4,7 +4,7 @@ permalink: /spaghetti-z-baklazanem/
 description: Spaghetti z bakłażanem – pyszny makaron z delikatnym bakłażanem i aromatycznymi ziołami. Przepis krok po kroku na wartościowy obiad.
 date: 2026-01-13
 tags: ['vege', 'makaron']
-image: spaghetti_baklazan.webp
+image: spaghetti-z-baklazanem.webp
 imageAlt: spaghetti z bakłażanem
 ---
 

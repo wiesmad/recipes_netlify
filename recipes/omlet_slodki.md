@@ -4,7 +4,7 @@ permalink: /omlet-na-slodko/
 description: Przepis na omlet na słodko – szybki i domowy pomysł na pyszne śniadanie lub deser. Idealny na weekend i ulubiony przez dzieci.
 date: 2026-01-25
 tags: ['wypieki']
-image: omlet_sl.webp
+image: omlet-na-slodko.webp
 imageAlt: pizza
 ---
 
