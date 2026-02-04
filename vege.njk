@@ -7,11 +7,15 @@ description: Szukasz pomysłu na obiad bez mięsa? Odkryj najlepsze przepisy weg
 
 <!-- CONTENT -->
 
-<h1 class="page-title">{{ title }}</h1>
+<div class="page-title">
+    <h1>{{ title }}</h1>
+    <p>Dobrze jest czasem odpocząć od mięsa i spróbować dań roślinnych.</p>
+</div>
 
 <section class="card-grid">
     {% for recipe in collections.vege %}
     <article class="card">
+        <h2 class="card-title">{{ recipe.data.title }}</h2>
         <a href="{{ recipe.url }}" class="card-media">
             <img
                 src="/public/img/{{ recipe.data.image }}"
@@ -19,7 +23,6 @@ description: Szukasz pomysłu na obiad bez mięsa? Odkryj najlepsze przepisy weg
                 loading="lazy"
             />
         </a>
-        <h3 class="card-title">{{ recipe.data.title }}</h3>
     </article>
     {% endfor %}
 </section>

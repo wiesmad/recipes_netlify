@@ -82,9 +82,18 @@ nav {
 
 .page-title {
     padding-inline: var(--side-padding);
-    font-size: 1.2rem;
-    font-weight: 600;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+
+    h1 {
+        font-size: 1.2rem;
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 0.9rem;
+        font-weight: 400;
+        color: var(--color-text-secondary);
+    }
 }
 
 /*INDEX, WYPIEKI, VEGE*/

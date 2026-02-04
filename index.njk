@@ -6,11 +6,16 @@ description: proste przepisy na dania wegańskie, makarony, wypieki, chleb i pot
 
 <!-- CONTENT -->
 
-<h1 class="page-title">{{ title }}</h1>
+<div class="page-title">
+    <h1>{{ title }}</h1>
+    <p>Proste przepisy na dania wegańskie, makarony,
+    wypieki, chleb i potrawy z całego świata.</p>
+</div>
 
 <section class="card-grid">
     {% for recipe in collections.recipes %}
     <article class="card">
+        <h2 class="card-title">{{ recipe.data.title }}</h2>
         <a href="{{ recipe.url }}" class="card-media">
             <img
                 src="/public/img/{{ recipe.data.image }}"
@@ -18,7 +23,7 @@ description: proste przepisy na dania wegańskie, makarony, wypieki, chleb i pot
                 fetchpriority="high"
                 decoding="async">
         </a>
-        <h3 class="card-title">{{ recipe.data.title }}</h3>
+
     </article>
     {% endfor %}
 </section>
