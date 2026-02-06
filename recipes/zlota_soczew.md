@@ -45,5 +45,3 @@ modal: dupa jaś
         <p>Przepis zaczerpnięty z <i>Jadłonomi Marty Dymek</i></p>
     </div>
 </div>
-
-{% include "partials/modal.njk" %}
