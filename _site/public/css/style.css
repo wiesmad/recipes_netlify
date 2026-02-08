@@ -40,26 +40,24 @@ body::before {
 
 /*HEADER*/
 
-.site-header {
+.main-header {
     position: relative;
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding-block: 0.5rem;
     padding-inline: var(--side-padding);
-
-    p {
-        a {
-            font-family: "Imperial Script", cursive;
-            font-size: 3rem;
-            font-weight: bold;
-            color: var(--color-logo);
-            margin: 0;
-        }
-    }
 }
 
-nav {
+.logo {
+    font-family: "Imperial Script", cursive;
+    font-size: 3rem;
+    font-weight: bold;
+    color: var(--color-logo);
+    margin: 0;
+}
+
+.nav {
     display: flex;
     gap: 1rem;
 
