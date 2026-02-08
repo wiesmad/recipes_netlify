@@ -110,6 +110,12 @@
     <priority>0.7</priority>
  </url>
 
+  <url>
+    <loc>https://farfalle.pl/pieczony-filet-z-indyka/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+ </url>
+
 
 
 </urlset>
