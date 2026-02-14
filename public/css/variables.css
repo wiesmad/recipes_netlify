@@ -1,7 +1,6 @@
 :root {
     --color-logo: hotpink;
-    --min-col-size: 250px; /*recipe-grid*/
-    --side-padding: 1rem;
+    --min-col-size: 280px; /*recipe-grid*/
 }
 
 a {
