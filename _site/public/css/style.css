@@ -5,6 +5,12 @@
     margin: 0;
 }
 
+/*VARIABLES*/
+:root {
+    --color-logo: hotpink;
+    --min-col-size: 280px; /*recipe-grid*/
+}
+
 /*GENERAL*/
 html,
 body {
@@ -46,6 +52,12 @@ h3 {
     font-size: 1rem;
     font-weight: 600;
     margin-bottom: 1rem;
+}
+
+a {
+    color: inherit; /* Przejmuje kolor od rodzica */
+    text-decoration: none; /* Usuwa podkreślenie */
+    cursor: pointer;
 }
 
 .container {
@@ -280,5 +292,9 @@ footer {
 
     h1 {
         padding-left: 4%;
+    }
+
+    .page-title h1 {
+        padding-left: 0;
     }
 }
