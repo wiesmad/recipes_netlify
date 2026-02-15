@@ -41,4 +41,6 @@ Marchewkę i seler kroimy w drobniutką kostkę, dodajemy do garnka, zalewamy wi
 
 **Wskazówka:** Aby sos nabrał lepszej konsystencji i smaki się lepiej wymieszały, dobrze jest zamrozić go na noc.
 
-Makaron spaghetti gotujemy w całości, w dobrze osolonej wodzie, nigdy dłużej niż podany czas na opakowaniu. Dobrze ugotowany makaron nie wymaga hartowania, mieszania z olejem i tym podobnych zabiegów aby się nie sklejał. Wystarczy, że prosto z wody umieścimy porcję na talerzu, dodamy podgrzany sos, posypiemy parmezanem, zieloną pietruszką i świeżo
+Makaron spaghetti gotujemy w całości, w dobrze osolonej wodzie, nigdy dłużej niż podany czas na opakowaniu. Dobrze ugotowany makaron nie wymaga hartowania, mieszania z olejem i tym podobnych zabiegów aby się nie sklejał. Wystarczy, że prosto z wody umieścimy porcję na talerzu, dodamy podgrzany sos, posypiemy parmezanem, zieloną pietruszką i świeżo pieprzem.
+
+Koniecznie z czerwonym winem. Buon appetito!

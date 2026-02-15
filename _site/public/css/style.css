@@ -263,16 +263,17 @@ footer {
     }
 
     .nav {
-        display: none; /* Hide menu by default */
-        position: absolute;
-        top: 100%;
-        left: 0;
-        width: 100%;
+        display: flex; /* Hide menu by default */
+        position: fixed;
+        top: 0;
+        left: -280px;
+        width: 280px;
+        height: 100vh;
         background: #f9f9f9;
         flex-direction: column;
-        text-align: center;
-        padding: 1rem 0;
-        box-shadow: 0 4px 5px rgba(0, 0, 0, 0.05);
+        padding: 80px 20px 20px;
+        box-shadow: 5 0px 15px rgba(0, 0, 0, 0.05);
+        z-index: 1000;
 
         a {
             margin: 10px 0;
@@ -282,7 +283,7 @@ footer {
 
     /* The "Magic": When checkbox is checked, show the nav */
     .nav-checkbox:checked ~ .nav {
-        display: flex;
+        transform: translateX(280px);
     }
 
     .full {

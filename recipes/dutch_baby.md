@@ -35,6 +35,6 @@ Piekarnik nagrzać do temperatury 220 stopni wraz z patelnią żeliwną w środk
 
 Wyjąć rozgrzaną patelnię (rękawice się przydadzą) i wysmarować ją sklarowanym masłem za pomocą pędzelka. Następnie przelać ciasto i od razu wstawić do piekarnika na 20 minut. Ciasto powinno mocno wyrosnąć na brzegach, czasem nierównomiernie i tak właśnie powinno być.
 
-Po wyjęciu naleśnika z piekarnika opadnie ono nieco i to też jest prawidłowe. Podawać na słodko z owocami, cukrem pudrem lub bitą śmietaną.
+Po wyjęciu naleśnika z piekarnika opadnie on nieco i to też jest prawidłowe. Podawać na słodko z owocami, cukrem pudrem lub bitą śmietaną.
 
 </div>

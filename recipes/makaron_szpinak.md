@@ -38,4 +38,4 @@ Gdy na timerze pozostanie czas ok. 2 minut, dodajemy liście szpinaku (ja obrywa
 
 Odlewamy makaron (cześć wody do szklanki) i wrzucamy go prosto na patelnię, dodajemy parmezan, pieprz, i odpowiednią ilość wody ze szklanki, aby podczas mieszania uzyskać odpowiednią konsystencję sosu.
 
-**Uwaga!** Uważamy z solą, gdyż woda, którą dodaliśmy była mocno posol
+**Uwaga!** Uwaga! Uważamy z solą, gdyż woda, którą dodaliśmy była mocno posolona. Często w ogóle nie dodaje już soli.

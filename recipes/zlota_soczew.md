@@ -43,4 +43,4 @@ Dolać 1,5 litra bulionu warzywnego i dodać przepłukaną soczewicę, koperek w
 
 Doprawić solą, pieprzem i chilli i odstawić na 15 min.
 
-*Przepis zaczerpnięty z Jadłonomii Marty Dym
+*Przepis zaczerpnięty z Jadłonomii Marty Dymek

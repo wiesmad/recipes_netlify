@@ -40,4 +40,10 @@ Po tym czasie, wyjmujemy naszą ciasto na blat i dzielimy na 3 równe części. 
 
 Przystępujemy do formowania placka. Trudno to opisać słowami. Jest mnóstwo filmów poglądowych, różne techniki, każdy sam niech oceni jak mu będzie najlepiej.
 
-Gdy mamy już gotowy placek, nakładamy sos pomidorowy, osobiście kupuje gotowe w
+Gdy mamy już gotowy placek, nakładamy sos pomidorowy, osobiście kupuje gotowe w puszce, ale można oczywiście zrobić samemu. Na sos kładziemy, odsączoną wcześniej i pokrojoną w plastry mozzarellę. Mamy wówczas klasykę czyli Margherittę.
+
+Nakładanie składników musi trwać jak najkrócej, aby ciasto nie zaczęło kleić się do blatu.
+
+Przekładamy za pomocą łopaty do pizzy ciasto z blatu na rozgrzany kamień w piekarniku, tu też pośpiech jest wskazany, aby nie ostudzić za mocno piekarnika podczas gdy jest otwarty.
+
+Pieczemy tyle ile trzeba. To zależy od piekarnika. U mnie nagrzewa się do 300 stopni i moja pizza piecze się ok. 3-4 minut.
