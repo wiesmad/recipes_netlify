@@ -298,4 +298,12 @@ footer {
     .page-title h1 {
         padding-left: 0;
     }
+
+    .about {
+        background: rgb(237, 237, 237, 0.9);
+        border-radius: 6px;
+        overflow: hidden;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        padding-block: 2rem;
+    }
 }
