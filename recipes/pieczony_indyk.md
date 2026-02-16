@@ -1,5 +1,5 @@
 ---
-title: Filet z inydka pieczony
+title: Filet z indyka pieczony
 permalink: /pieczony-filet-z-indyka/
 description: Soczysty filet z indyka. Pieczony, z sosem śmietanowym i szuszonymi pomidorami.
 date: 2026-02-08
