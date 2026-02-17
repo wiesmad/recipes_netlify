@@ -28,7 +28,7 @@ Chleb 100% żytni, czyli najzdrowszy i najłatwiejszy do zrobienia. Prawdziwy ch
 
 ### Co i jak:
         
-W dużej zamykanej misce mieszam dokładnie (najlepiej trzepaczką) zakwas w szczycie aktywności z wodą. Dodaję makę razową i znowu mieszam. Po czym wspypuję mąkę chlebową i na wierzch 2 łyżeczki soli. Trzebna teraz to dokładnie wymieszać, ale już za pomocą drewnianej łyżki. Wymaga to trochę siły.
+W dużej zamykanej misce mieszam dokładnie (najlepiej trzepaczką) zakwas w szczycie aktywności z wodą. Dodaję makę razową i znowu mieszam. Po czym wspypuję mąkę chlebową i na wierzch 2 łyżeczki soli. Trzeba to teraz dokładnie wymieszać, ale już za pomocą drewnianej łyżki. Wymaga to trochę siły.
 
 Gdy uzyskamy już jendnolitą masę, przykrywamy miskę i odstawiamy na 4-6 godzin do wyrośnięcia. Ciasto powinno zwiększyć objętość o około 50%. Po tym czasie przekładamy masę do foremki (12x25 cm) wysmarowanej zimnym masłem, wyrównujemy z grubsza powierzchnię mokrymi palcami dłoni i odstawiamy ponownie do wyrośnięcia na 2-3 godziny. Foremkę trzeba przykryć, świetnie się do tego nadaje plastikowy czepek pod prysznic.
         

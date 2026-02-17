@@ -10,7 +10,7 @@ imageAlt: kozacka soczewicowa
 
 <div class="recipe-hero">
 
-To moja ulubiona zupa na bazie zielonej soczewicy i warzyw, którą gotuję jako konkretne, roślinne danie jednogarnkowe. Aromatyczne przyprawy i lekko wędzony, korzenny charakter, zapewnia zupie głęboki smak. Sprawdza się jako pełnoprawny obiad lub kolacja, szczególnie wtedy, gdy mam ochotę na coś prostego, ale treściwego i wyrazistego.
+To moja ulubiona zupa na bazie zielonej soczewicy i warzyw, którą gotuję jako konkretne, roślinne danie jednogarnkowe. Aromatyczne przyprawy i lekko wędzony, korzenny charakter zapewnia zupie głęboki smak. Sprawdza się jako pełnoprawny obiad lub kolacja, szczególnie wtedy, gdy mam ochotę na coś prostego, ale treściwego i wyrazistego.
 
 <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
 
@@ -34,14 +34,14 @@ To moja ulubiona zupa na bazie zielonej soczewicy i warzyw, którą gotuję jako
 - 1/2 łyżeczki kminku
 - 1/2 łyżeczki mielonej kolendry
 - olej do smażenia
-- pieprz i sól do smaku
+- sól i pieprz do smaku
 
 ### Co i jak:
 
-Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i godździkiem. Następnie dodać posiekany czosnek i po ok. 1 min koncentrat pomidorowy. Całość smażyć, często mieszająć następne 5 min.
+Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i goździkiem. Następnie dodać posiekany czosnek, a po ok. 1 minucie koncentrat pomidorowy. Całość smażyć, często mieszając następne 5 minut.
 
-Dolać 2 litry bulionu, a potem soczewicę i pokrojone w dużą kostkę ziemniaki. Gotować na małym ogniu pod przykryciem ok. 30 min, aż soczewica i ziemniaki będą miękkie.
+Dolać 2 litry bulionu, a następnie dodać soczewicę i pokrojone w dużą kostkę ziemniaki. Gotować na małym ogniu pod przykryciem ok. 30 minut, aż soczewica i ziemniaki zmiękną.
 
-Pozostałe przyprawy podsmażyć kilka minut na oleju w małej patelni, aż poczujemy wyraźny aromat, wtedy wrzucić zawartość patelni do zupy i wymieszać.
+Pozostałe przyprawy podsmażyć kilka minut na oleju na małej patelni, aż zaczną intensywnie pachnieć. Następnie dodać je do zupy i wymieszać.
 
 *Przepis z bloga: Marta-Gotuje*

@@ -10,7 +10,7 @@ imageAlt: rajma
 
 <div class="recipe-hero">
 
-Rajma to aromatyczne curry z czerwonej fasoli, wywodzi się z północnych Indii. Jest to danie bogate w białko, a przy tym o wiele zdrowsze od naszej fasolki po bretońsku. Podajemy z ryżem lub chlebem roti.
+Rajma to aromatyczne curry z czerwonej fasoli, wywodzi się z północnych Indii. Jest to danie bogate w białko, a przy tym o wiele zdrowsze od naszej fasolki po bretońsku. Podajemy z ryżem lub chlebem <a href="/chlebek-roti"><u>roti</u></a>.
 
 <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
 
