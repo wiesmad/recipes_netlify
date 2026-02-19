@@ -33,6 +33,6 @@ Jabłka obieramy ze skórki, kroimy na ćwiartki, wycinamy gniazda nasienne, po 
 
 Naczynie żaroodporne smarujemy masłem, obsypujemy bułką tartą, układamy warstwę z połowy ryżu, na to kładziemy jabłka i znów warstwę pozostałego ryżu. Na wierzchu kładziemy pokrojone kawałki masła.
 
-Pieczemy pod przykryciem 45 minut w 180&deg C, potem jeszcze następne 15 minut bez pokrywki. Po wyjęciu z piekarnika odstawić, aby nieco wystygł. 
+Pieczemy pod przykryciem w 180&deg C. Po upływie 45 minut, wyjmujemy ryż z piekarnika, mieszamy całość, przykrywamy i wstawiamy z powrotem do piekarnika na następne 15 minut. Po wyjęciu z piekarnika odstawić, aby nieco wystygł. 
 
 </div>

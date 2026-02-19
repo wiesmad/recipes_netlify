@@ -32,7 +32,7 @@ Największym ograniczeniem przy próbie zrobienia pizzy jak w pizzerii, jest bra
 
 Do dużej miski wlewamy wodę i dodajemy drożdże i mieszamy aż się rozpuszczą. Dodajemy całą mąkę i mieszamy łyżką, aby składniki się z grubsza wymieszały. Teraz możemy dodać soli i wyrabiać ciasto na gładką masę. Można to zrobić ręcznie lub mikserem do ciasta. Dajemy ciastu 5-10 minut na odpoczynek.
 
-**Ważne:** Soli nie sypiemy bezpośrednio na drożdźe.
+**Ważne:** Soli nie sypiemy bezpośrednio na drożdże.
 
 Przekładamy ciasto na blat i składamy kilkakrotnie do wewnątrz, po czym formujemy kulę, wkładamy ją do miski, przykrywamy i zostawiamy na 4 godziny.
 

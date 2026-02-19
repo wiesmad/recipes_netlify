@@ -1,7 +1,7 @@
 ---
-title: Chlebek roti
+title: Chlebek Roti
 permalink: /chlebek-roti/
-description: Chlebek roti rodem z Indii to po prostu placek pszenny, pieczony na suchej patelni.
+description: Chlebek Roti rodem z Indii to po prostu placek pszenny, pieczony na suchej patelni.
 date: 2026-02-16
 tags: ['wypieki']
 image: roti.webp
@@ -10,7 +10,7 @@ imageAlt: chleb roti
 
 <div class="recipe-hero">
 
-Gdy już zadamy sobie trud i przyrządzimy jakąś indyjską potrawę np. rajma lub chana masala, warto uzupełnić ją o tradycyjne pieczywo. W indiach roti to podstawowy, najsprostszy chleb pieczony na żeliwnej płycie. 
+Gdy już zadamy sobie trud i przyrządzimy jakąś indyjską potrawę np. <a href="/rajma"><u>Rajma</u></a> lub Chana Masala, warto uzupełnić ją o tradycyjne pieczywo. W Indiach Roti to podstawowy, najprostszy chleb pieczony na żeliwnej płycie. 
 
 <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
     
@@ -20,7 +20,7 @@ Gdy już zadamy sobie trud i przyrządzimy jakąś indyjską potrawę np. rajma 
         
 ## Składniki:
 
-- 200 g mąki pszennej chlebowej lub razowej
+- 200 g mąki pszennej razowej lub pszennej
 - 130 ml letniej wody
 - 1 płaska łyżeczka soli
 

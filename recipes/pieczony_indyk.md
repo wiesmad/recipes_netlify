@@ -10,7 +10,7 @@ imageAlt: filet indyka pieczony
 
 <div class="recipe-hero">
 
-Bardzo proste, a jakże wykwinte danie z pieczonego fileta indyka. Można użyć dowolnych przypraw wedle gustu. Filet z inydka jest mięsem chudym, dlatego należy uważać z czasem pieczenia, bo łatwo je wysuszyć. Moja ulubiona wersja jest z sosem śmietanowym plus ryż na sypko lub kasza bulgur.
+Bardzo proste, a jakże wykwintne danie z pieczonego fileta indyka. Można użyć dowolnych przypraw wedle gustu. Filet z indyka jest mięsem chudym, dlatego należy uważać z czasem pieczenia, bo łatwo je wysuszyć. Moja ulubiona wersja jest z sosem śmietanowym plus ryż na sypko lub kasza Bulgur.
 
 <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
 
