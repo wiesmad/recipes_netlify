@@ -1,7 +1,7 @@
 ---
 title: Rajma
 permalink: /rajma/
-description: Przepis na rajma – indyjskie curry z czerwonej fasoli. Aromatyczne, wegetariańskie i sycące danie idealne z ryżem lub roti.
+description: Przepis na Rajma – indyjskie curry z czerwonej fasoli. Aromatyczne, wegetariańskie i sycące danie idealne z ryżem lub roti.
 date: 2026-01-24
 tags: ['vege']
 image: rajma.webp

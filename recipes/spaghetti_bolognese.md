@@ -1,5 +1,5 @@
 ---
-title: Spaghetti bolognese
+title: Spaghetti Bolognese
 permalink: /spaghetti-bolognese/
 description: Przepis na Spaghetti Bolognese – klasyczny makaron z sosem bolońskim z mielonego mięsa, pomidorów. Ragoût miesno-warzywne.
 date: 2026-01-21
@@ -10,7 +10,7 @@ imageAlt: spaghetti bolognese
 
 <div class="recipe-hero">
 
-Wszyscy raczej znają sos boloński do makaronu lub lasagne. Mój przepis jest na bazie mięsa z indyka, ale tu uwaga, aby nie było to mielone z piersi, bo jest za suche i ma za mało tłuszczu. Poza tym dużo selera naciowego i marchewki.
+Wszyscy raczej znają sos boloński do makaronu lub Lasagne. Mój przepis jest na bazie mięsa z indyka, ale tu uwaga, aby nie było to mielone z piersi, bo jest za suche i ma za mało tłuszczu. Poza tym dużo selera naciowego i marchewki.
 
 <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
 
