@@ -39,8 +39,8 @@ W dużym garnku zeszklić cebulę pokrojoną w kostkę, pod koniec dodać posiek
 
 Marchewkę i seler kroimy w drobniutką kostkę, dodajemy do garnka, zalewamy winem i dusimy na małym ogniu co najmniej 1 godzinę.
 
-**Wskazówka:** Aby sos nabrał lepszej konsystencji i smaki się lepiej wymieszały, dobrze jest zamrozić go na noc.
-
 Makaron spaghetti gotujemy w całości, w dobrze osolonej wodzie, nigdy dłużej niż podany czas na opakowaniu. Dobrze ugotowany makaron nie wymaga hartowania, mieszania z olejem i tym podobnych zabiegów aby się nie sklejał. Wystarczy, że prosto z wody umieścimy porcję na talerzu, dodamy podgrzany sos, posypiemy parmezanem, zieloną pietruszką i świeżo mielonym pieprzem.
 
 Koniecznie z czerwonym winem. Buon appetito!
+
+**Porada:** Aby sos nabrał lepszej konsystencji i smaki się lepiej wymieszały, dobrze jest zamrozić go na noc.
