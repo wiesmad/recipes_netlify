@@ -28,7 +28,7 @@ Bardzo proste, a jakże wykwintne danie z pieczonego fileta indyka. Można uży�
 - 1/2 łyżeczki majeranku
 - sól i pieprz
 
-### Co i jak:
+## Co i jak:
 
 Mięso wyjmujemy z lodówki, płuczemy pod bieżącą, zimną wodą. Osuszamy, nacieramy przyprawami i zostawiamy w temperaturze pokojowej na ok. 2 godziny.
 

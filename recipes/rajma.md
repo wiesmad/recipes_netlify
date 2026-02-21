@@ -30,7 +30,7 @@ Rajma to aromatyczne curry z czerwonej fasoli, wywodzi się z północnych Indii
 - 1/2 łyżeczki kuminu
 - sól, pieprz do smaku
 
-### Co i jak:
+## Co i jak:
 
 Cebulę pokroić w kostkę i zeszklić na oleju w dużym garnku. Dodać wszystkie przyprawy, świeży starty imbir i posiekany czosnek. Smażyć chwilę, aż poczujemy ostrą woń przypraw, wówczas dodać puszkę pomidorów i jedną puszkę fasoli wraz z zalewą.
 

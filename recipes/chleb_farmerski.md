@@ -26,7 +26,7 @@ Uwielbiam ten chleb! Jednak w przeciwieństwie do chleba żytniego z foremki, kt
 - 320 ml letniej wody
 - 2 płaskie łyżeczki soli
 
-### Co i jak:
+## Co i jak:
 
 Na początek mieszamy w misce wodę z zakwasem i mąką razową, osobiście robię to za pomocą trzepaczki. Następnie dodajemy mąkę chlebową i mieszamy całość, aby uzyskać grudkowate ciasto. Odstawiamy na 40 minut.
 
@@ -49,5 +49,8 @@ Pieczemy pod przykryciem 25 minut w temperaturze 230°, następnie zdejmujemy po
 Po wyjęciu z piekarnika, studzimy chleb na kratce.
 
 Jeden obraz wart jest więcej niż tysiąc słów, a film to już jak cała książka. Dlatego polecam wideo na YT Piotra Kucharskiego, które było inspiracją do tego przepisu. Przygotowałem go jednak po swojemu, modyfikując nieco proporcje i składniki.
+
+<!--## Porady:
+Potrzebny garnek żeliwny-->
 
 </div>

@@ -28,7 +28,7 @@ Największym ograniczeniem przy próbie zrobienia pizzy jak w pizzerii, jest bra
 - mozzarella z zalewy
 - inne składniki - jak kto lubi
 
-### Co i jak:
+## Co i jak:
 
 Do dużej miski wlewamy wodę i dodajemy drożdże i mieszamy aż się rozpuszczą. Dodajemy całą mąkę i mieszamy łyżką, aby składniki się z grubsza wymieszały. Teraz możemy dodać soli i wyrabiać ciasto na gładką masę. Można to zrobić ręcznie lub mikserem do ciasta. Dajemy ciastu 5-10 minut na odpoczynek.
 

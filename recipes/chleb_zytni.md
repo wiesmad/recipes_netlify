@@ -26,7 +26,7 @@ Chleb 100% żytni, czyli najzdrowszy i najłatwiejszy do zrobienia. Prawdziwy ch
 - 400 ml letniej wody
 - 2 łyżeczki soli
 
-### Co i jak:
+## Co i jak:
         
 W dużej zamykanej misce mieszam dokładnie (najlepiej trzepaczką) zakwas w szczycie aktywności z wodą. Dodaję mąkę razową i znowu mieszam. Po czym wsypuję mąkę chlebową i na wierzch 2 łyżeczki soli. Trzeba to teraz dokładnie wymieszać, ale już za pomocą drewnianej łyżki. Wymaga to trochę siły.
 

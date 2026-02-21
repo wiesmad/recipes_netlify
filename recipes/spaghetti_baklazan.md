@@ -30,7 +30,7 @@ Nie pamiętam gdzie znalazłem przepis na to danie, ale nieco je zmodyfikowałem
 - garść świeżych listków bazylli
 - sól, pieprz do smaku
 
-### Co i jak:
+## Co i jak:
 
 Bakłażan pokroić w kostkę 2cm. Cukinię przekroić wzdłuż na ćwiartki, wykroić pestki, a następnie pociąć na mniejsze kawałki. Warzywa wsypać do miski, wymieszać z łyżeczką soli, pieprzem oraz 3-4 łyżkami oleju. Odstawić na ok. 1h mieszając dwukrotnie w tym czasie.
 

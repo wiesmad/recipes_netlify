@@ -27,7 +27,7 @@ Zawsze miałem problem co zrobić z kalafiorem, którego lubię. Jakoś nie przy
 - 1/4 łyżeczki kminku
 - sól, pieprz
 
-### Co i jak:
+## Co i jak:
 
 Przyprawy mieszamy z olejem, dodajemy sól i pieprz.
 

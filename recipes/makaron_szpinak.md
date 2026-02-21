@@ -28,7 +28,7 @@ Jest wiele przepisów na szpinak z makaronem w sosie śmietanowym, z regóły s�
 - 400 g makaronu
 - sól, pieprz do smaku
 
-### Co i jak:
+## Co i jak:
 
 Wstawić wodę i dobrze ją posolić. Gdy się zagotuje, wsypać makaron, ustawić timer zgodnie z czasem podanym na opakowaniu minus 1 minuta. Nawet lekko rozgotowany makaron zepsuje nam danie, bo sos zostanie wchłonięty przez skrobię i makaron się sklei.
 

@@ -27,7 +27,7 @@ Ogólnie to nie lubię piec ciast, za dużo z nimi roboty. Jak już, to szukam p
 - 50 g masła
 - aromat pomarańczowy (lub inny)
 
-### Co i jak:
+## Co i jak:
 
 Wszystkie składniki (o temperaturze pokojowej) umieścić w mikserze i mieszać aż uzyskamy jednorodną masę.
 

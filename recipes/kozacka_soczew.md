@@ -36,7 +36,7 @@ To moja ulubiona zupa na bazie zielonej soczewicy i warzyw, którą gotuję jako
 - olej do smażenia
 - sól i pieprz do smaku
 
-### Co i jak:
+## Co i jak:
 
 Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i goździkiem. Następnie dodać posiekany czosnek, a po ok. 1 minucie koncentrat pomidorowy. Całość smażyć, często mieszając następne 5 minut.
 

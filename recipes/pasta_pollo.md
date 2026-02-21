@@ -1,11 +1,11 @@
 ---
-title: Spaghetti Bolognese
-permalink: /spaghetti-bolognese/
-description: Przepis na Spaghetti Bolognese – klasyczny makaron z sosem bolońskim z mielonego mięsa, pomidorów. Ragoût miesno-warzywne.
-date: 2026-01-21
+title: Pasta con pollo e pomodoro
+permalink: /pasta-con-polo-e-pomodoro/
+description: Przepis na makaron z kurczakiem i pomidorami – to szybkie danie, które zawsze się sprawdza i nie nudzi.
+date: 2026-02-21
 tags: ['makaron']
-image: spaghetti-bolognese.webp
-imageAlt: spaghetti bolognese
+image: pasta-pollo.webp
+imageAlt: pasta con pollo e pomodoro
 ---
 
 <div class="recipe-hero">

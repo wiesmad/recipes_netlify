@@ -35,7 +35,7 @@ Ta zupa z czerwonej soczewicy, to łatwe, szybkie danie, które łączy prostot�
 - liście kaffiru lub skórka z cytryny
 - chilli, pieprz i sól do smaku
 
-### Co i jak:
+## Co i jak:
 
 Cebulę zeszklić na oleju w dużym garnku. Następnie dodać posiekany czosnek i starty imbir i za chwilę kurkumę z papryką. Smażyć około 1 min.
 
@@ -43,4 +43,4 @@ Dolać 1,5 litra bulionu warzywnego i dodać przepłukaną soczewicę, koperek w
 
 Doprawić solą, pieprzem i chilli i odstawić na 15 min.
 
-*Przepis zaczerpnięty z Jadłonomii Marty Dymek
+*Przepis zaczerpnięty z Jadłonomii Marty Dymek*

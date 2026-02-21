@@ -25,7 +25,7 @@ Kiedy wracam myślami do lat dzieciństwa, jeśli chodzi o ulubione dania, zawsz
 - 50 g masła
 - 3-5 łyżki cukru (zależy od odmiany jabłek)
 
-### Co i jak:
+## Co i jak:
 
 Gotujemy ryż. Nieco krócej, bo spędzi sporo czasu w piekarniku gdzie dojdzie.
 

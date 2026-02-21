@@ -1,4 +1,17 @@
 User-agent: *
 Allow: /
 
+# Blokuje bota OpenAI (ChatGPT) przed pobieraniem danych do trenowania
+User-agent: GPTBot
+Disallow: /
+
+# Blokuje Google-Extended (wykorzystanie treści w modelach Gemini/Vertex AI)
+# Nie wpływa to na pozycję strony w wynikach wyszukiwania Google.
+User-agent: Google-Extended
+Disallow: /
+
+# Blokuje Common Crawl (często używany do budowy zbiorów danych dla AI)
+User-agent: CCBot
+Disallow: /
+
 Sitemap: https://farfalle.pl/sitemap.xml

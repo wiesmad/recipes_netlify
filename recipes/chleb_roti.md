@@ -24,7 +24,7 @@ Gdy już zadamy sobie trud i przyrządzimy jakąś indyjską potrawę np. <a hre
 - 130 ml letniej wody
 - 1 płaska łyżeczka soli
 
-### Co i jak:
+## Co i jak:
         
 Z podanych składników zagniatamy ciasto. Wyrabiamy aż będzie gładkie, przykrywamy i odstawiamy na 15 minut.
 

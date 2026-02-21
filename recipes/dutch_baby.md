@@ -27,7 +27,7 @@ Nazwa tego dania sugeruje, iż wywodzi się ono z Holandii, jednakże prawda jes
 - szczypta soli
 - masło sklarowane
 
-### Co i jak:
+## Co i jak:
 
 Wszystkie składniki oprócz masła wymieszać mikserem lub blenderem.
 

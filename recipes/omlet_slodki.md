@@ -25,7 +25,7 @@ Po całym tygodniu jedzenia owsianki na śniadanie, w weekend jest u nas odpust 
 - 1 łyżka jogurtu lub śmietany
 - 1 łyżka masła
 
-### Co i jak:
+## Co i jak:
 
 Białka z jajek ubijamy na sztywną pianę. Dodajemy żółtka, mąkę i jogurt, po czym mieszamy dokładnie łyżką.
 
