@@ -35,4 +35,8 @@ Naczynie żaroodporne smarujemy masłem, obsypujemy bułką tartą, układamy wa
 
 Pieczemy pod przykryciem w 180&deg C. Po upływie 45 minut, wyjmujemy ryż z piekarnika, mieszamy całość, przykrywamy i wstawiamy z powrotem do piekarnika na następne 15 minut. Po wyjęciu z piekarnika odstawić, aby nieco wystygł. 
 
+## Porada: ##
+
+Aby ugotować ryż..
+
 </div>
