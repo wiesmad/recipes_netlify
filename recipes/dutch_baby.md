@@ -37,4 +37,9 @@ Wyjąć rozgrzaną patelnię (rękawice się przydadzą) i wysmarować ją sklar
 
 Po wyjęciu naleśnika z piekarnika opadnie on nieco i to też jest prawidłowe. Podawać na słodko z owocami, cukrem pudrem lub bitą śmietaną.
 
+## Porada: ##
+
+Zamiast kupować gotowe masło klarowane, lepiej w prosty sposób zrobić je samemu, dokładnie tyle ile potrzebujemy.</br>
+W tym celu rozpuścić powoli masło w małym rondelku. Zebrać tworzącą się na powierzchni pianę i przelać tłuszcz do innego naczynia, uważając aby osad został w rondlu. 
+
 </div>

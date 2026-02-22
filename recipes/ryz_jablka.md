@@ -3,9 +3,9 @@ title: Ryż z jabłkami
 permalink: /ryz-z-jablkami/
 description: Ryż zapiekany z jabłakami to ulubione danie z mojego dzieciństwa. Robiło się go w prodiżu elektrycznym.
 date: 2026-02-14
-tags: ['deser']
-image: no-foto.webp
-imageAlt: no foto
+tags: ['inne']
+image: ryz-z-jablkami.webp
+imageAlt: ryż z jabłkami w miseczce
 ---
 
 <div class="recipe-hero">
@@ -37,6 +37,9 @@ Pieczemy pod przykryciem w 180&deg C. Po upływie 45 minut, wyjmujemy ryż z pie
 
 ## Porada: ##
 
-Aby ugotować ryż..
+Zamiast powszechnie używanego ryżu w woreczkach, polecam gotować ryż sypki na wagę.</br>
+Prosta metoda tzw. 10x10.</br>
+Do garnka (dość duży, bo ryż przygotowaniu lubi wykipieć) wsypujemy szklankę ryżu, płuczemy 2-3 krotnie, następnie zalewamy 2 szklankami wody, przykrywamy i wstawiamy na gaz. Gdy tylko się zagotuje, zmniejszamy palnik na minimum i gotujemy 10 minut. Po tym czasie, wyłączamy gaz i odstawiamy przykryty garnek na następne 10 mintut.</br>
+Ważne, aby nie odkrywać niepotrzebnie ryżu w owych 20 minutach.
 
 </div>
