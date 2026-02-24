@@ -5,7 +5,7 @@ description: Przepis na makaron z kurczakiem i pomidorami – to szybkie danie, 
 date: 2026-02-21
 tags: ['makaron']
 image: makaron-kurczak.webp
-imageAlt: makaron z kurczakiem i pomidorami
+imageAlt: makaron linguine z kurczakiem i pomidorami
 ---
 
 <div class="recipe-hero">

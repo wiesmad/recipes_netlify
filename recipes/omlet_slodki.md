@@ -5,7 +5,7 @@ description: Przepis na omlet na słodko – szybki i domowy pomysł na pyszne �
 date: 2026-01-25
 tags: ['wypieki']
 image: omlet-na-slodko.webp
-imageAlt: omlet na słodko
+imageAlt: omlet na słodko z owocami na talerzu
 ---
 
 <div class="recipe-hero">

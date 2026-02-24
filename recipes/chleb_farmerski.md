@@ -5,7 +5,7 @@ description: Chleb farmerski – przepis na domowy, zdrowy, pszenny chleb na zak
 date: 2026-01-24
 tags: ['wypieki']
 image: chleb-farmerski.webp
-imageAlt: chleb farmerski
+imageAlt: pokrojony chrupiący chleb farmerski na desce
 ---
 
 <div class="recipe-hero">

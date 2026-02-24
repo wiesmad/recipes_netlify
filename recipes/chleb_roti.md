@@ -5,7 +5,7 @@ description: Chlebek Roti rodem z Indii to po prostu placek pszenny, pieczony na
 date: 2026-02-16
 tags: ['wypieki']
 image: roti.webp
-imageAlt: chleb roti
+imageAlt: przypieczone chlebki roti na talerzu
 ---
 
 <div class="recipe-hero">

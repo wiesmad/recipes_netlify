@@ -5,7 +5,7 @@ description: Przepis na sernik pieczony – klasyczny, prosty sernik na szybko. 
 date: 2026-01-18
 tags: ['wypieki']
 image: sernik-pieczony.webp
-imageAlt: sernik
+imageAlt: kawałek sernika pieczonego posypanego cukrem pudrem
 ---
 
 <div class="recipe-hero">

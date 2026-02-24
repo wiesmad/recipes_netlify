@@ -5,7 +5,7 @@ description: Chleb żytni – przepis na domowy, chleb na zakwasie. Szybkie przy
 date: 2026-01-19
 tags: ['wypieki']
 image: chleb-zytni.webp
-imageAlt: chleb żytni
+imageAlt: świeży zdrowy chleb żytni na desce
 ---
 
 <div class="recipe-hero">

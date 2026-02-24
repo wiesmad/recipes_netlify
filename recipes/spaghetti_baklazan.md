@@ -5,7 +5,7 @@ description: Spaghetti z bakłażanem – pyszny makaron z delikatnym bakłażan
 date: 2026-01-13
 tags: ['vege', 'makaron']
 image: spaghetti-z-baklazanem.webp
-imageAlt: spaghetti z bakłażanem
+imageAlt: czarne spaghetti z bakłażanem i cukinią
 ---
 
 <div class="recipe-hero">

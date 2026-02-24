@@ -8,11 +8,11 @@
         <meta property="og:title" content="O mnie">
         <meta property="og:description" content="Dlaczego powstało Farfalle.pl? Poznaj autora i dowiedz się, jak tworzę moją kolekcję ulubionych przepisów. Zapraszam do wspólnego gotowania i eksperymentowania!">
         <meta property="og:image" content="https://farfalle.pl">
+        <link rel="preload" href="/public/css/style.css" as="style">
+        <link rel="stylesheet" href="/public/css/style.css" />
         <link rel="canonical" href="https://farfalle.pl/o-mnie/" />
         <link rel="preload" href="/public/fonts/imperial.woff2" as="font" type="font/woff2" crossorigin>
-        <link rel="preload" href="/public/fonts/montserrat.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="icon" href="/public/img/favicon.png" type="image/png" />
-        <link rel="stylesheet" href="/public/css/style.css" />
         <script src="/public/js/script.js" defer></script>
         <title>Farfalle | O mnie</title>
     </head>
@@ -81,5 +81,71 @@ A jeśli któryś przepis stanie się inspiracją do własnych eksperymentów, t
         <footer>
             <p>&copy; 2026 Farfalle - Wiesław Mazurak</p>
         </footer>
+
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Recipe",
+              "name": "Rajma",
+              "image": "https://farfalle.pl",
+              "author": {
+                "@type": "Person",
+                "name": "Farfalle.pl"
+              },
+              "datePublished": "",
+              "description": "Dlaczego powstało Farfalle.pl? Poznaj autora i dowiedz się, jak tworzę moją kolekcję ulubionych przepisów. Zapraszam do wspólnego gotowania i eksperymentowania!",
+              "prepTime": "PT15M",
+              "cookTime": "PT45M",
+              "totalTime": "PT60M",
+              "recipeYield": "4 porcje",
+              "recipeCategory": "Obiad",
+              "recipeCuisine": "Indyjska",
+              "keywords": "rajma, curry z fasoli, przepis wegetariański",
+              "recipeIngredient": [
+                "1 szklanka czerwonej fasoli rajma",
+                "2 łyżki oleju roślinnego",
+                "1 cebula, posiekana",
+                "2 ząbki czosnku, drobno posiekane",
+                "1 łyżeczka imbiru, startego",
+                "2 pomidory, pokrojone",
+                "1 łyżeczka kminku",
+                "1 łyżeczka kolendry mielonej",
+                "1/2 łyżeczki kurkumy",
+                "1/2 łyżeczki chili w proszku",
+                "sól do smaku",
+                "świeża kolendra do dekoracji"
+              ],
+              "recipeInstructions": [
+                {
+                  "@type": "HowToStep",
+                  "text": "Namocz fasolę rajma na noc, a następnie ugotuj do miękkości."
+                },
+                {
+                  "@type": "HowToStep",
+                  "text": "Na patelni rozgrzej olej i podsmaż cebulę, czosnek i imbir do złotego koloru."
+                },
+                {
+                  "@type": "HowToStep",
+                  "text": "Dodaj pomidory i przyprawy, smaż kilka minut aż powstanie aromatyczny sos."
+                },
+                {
+                  "@type": "HowToStep",
+                  "text": "Dodaj ugotowaną fasolę do sosu i gotuj razem 10–15 minut, dopraw solą."
+                },
+                {
+                  "@type": "HowToStep",
+                  "text": "Podawaj gorące, udekorowane świeżą kolendrą."
+                }
+              ],
+              "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "250 kcal",
+                "fatContent": "8 g",
+                "carbohydrateContent": "35 g",
+                "proteinContent": "12 g"
+              }
+            }
+        </script>
+
     </body>
 </html>

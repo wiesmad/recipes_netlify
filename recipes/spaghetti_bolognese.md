@@ -5,7 +5,7 @@ description: Przepis na Spaghetti Bolognese – klasyczny makaron z sosem boloń
 date: 2026-01-21
 tags: ['makaron']
 image: spaghetti-bolognese.webp
-imageAlt: spaghetti bolognese
+imageAlt: spaghetti bolognese posypane pietruszką
 ---
 
 <div class="recipe-hero">

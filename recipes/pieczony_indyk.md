@@ -5,7 +5,7 @@ description: Soczysty filet z indyka. Pieczony, z sosem śmietanowym i szuszonym
 date: 2026-02-08
 tags: ['inne']
 image: filet-indyka-pieczony.webp
-imageAlt: filet indyka pieczony
+imageAlt: upieczony filet z indyka z sosem śmietanowym
 ---
 
 <div class="recipe-hero">

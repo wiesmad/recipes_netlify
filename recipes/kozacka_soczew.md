@@ -5,7 +5,7 @@ description: Kozacka soczewicowa - sprawdzony przepis na pyszną zupę z soczewi
 date: 2026-01-11
 tags: ['vege']
 image: kozacka-soczewicowa.webp
-imageAlt: kozacka soczewicowa
+imageAlt: gorąca aromatyczna zupa kozacka z soczewicy 
 ---
 
 <div class="recipe-hero">

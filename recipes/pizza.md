@@ -5,7 +5,7 @@ description: Domowa pizza krok po kroku – czyli jak zrobić pizzę w domu. Prz
 date: 2026-01-24
 tags: ['wypieki']
 image: pizza.webp
-imageAlt: pizza
+imageAlt: pizza margheritta na desce
 ---
 
 <div class="recipe-hero">

@@ -5,7 +5,7 @@ description: Przepis na makaron ze szpinakiem – aromatyczne danie z kremowym s
 date: 2026-01-15
 tags: ['makaron']
 image: makaron-ze-szpinakiem.webp
-imageAlt: makaron ze szpinakiem
+imageAlt: makaron ze szpinakiem w sosie śmietanowym
 ---
 
 <div class="recipe-hero">

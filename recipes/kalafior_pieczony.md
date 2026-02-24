@@ -5,7 +5,7 @@ description: Przepis na pieczony kalafior – zdrowe i wegetariańskie danie z p
 date: 2026-01-22
 tags: ['vege']
 image: kalafior-pieczony.webp
-imageAlt: kalafior pieczony
+imageAlt: kalafior upieczony na złoty kolor
 ---
 
 <div class="recipe-hero">

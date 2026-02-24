@@ -5,7 +5,7 @@ description: Złota soczewicowa – poznaj przepis na szybką i aromatyczną zup
 date: 2026-01-11
 tags: ['vege']
 image: zlota-soczewicowa.webp
-imageAlt: złota soczewicowa
+imageAlt: złota zupa z soczewicy w kolorze żółtym
 ---
 
 <div class="recipe-hero">

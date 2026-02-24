@@ -5,7 +5,7 @@ description: Falafel - chrupiące na zewnątrz, miękkie w środku kotleciki z c
 date: 2026-02-22
 tags: ['vege']
 image: falafel.webp
-imageAlt: falafel na telerzu
+imageAlt: stos falafeli na telerzu
 ---
 
 <div class="recipe-hero">

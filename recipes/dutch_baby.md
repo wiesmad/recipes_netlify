@@ -5,7 +5,7 @@ description: Dutch baby pancake – przepis na puszysty naleśnik pieczony. Szyb
 date: 2026-01-18
 tags: ['wypieki']
 image: dutch-baby.webp
-imageAlt: dutch baby
+imageAlt: pieczony naleśnik dutch baby z owocami
 ---
 
 <div class="recipe-hero">
