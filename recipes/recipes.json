@@ -1,4 +1,5 @@
 {
   "layout": "layouts/recipe.njk",
-  "tags": "recipes"
+  "tags": "recipes",
+  "baseImgPath": "/public/img/"
 }

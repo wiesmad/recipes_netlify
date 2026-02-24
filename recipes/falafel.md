@@ -1,7 +1,7 @@
 ---
 title: Falafel
 permalink: /falafel/
-description: Falafel - chrupiące na zewnątrz, miękkie w środku kotleciki z ciecierzycy i świeżych ziół i aromatycznych przypraw. Klasyk kuchni Bliskiego Wschodu
+description: Falafel - chrupiące na zewnątrz, miękkie w środku kotleciki z ciecierzycy i świeżych ziół i aromatycznych przypraw. Klasyk kuchni Bliskiego Wschodu.
 date: 2026-02-22
 tags: ['vege']
 image: falafel.webp
