@@ -46,9 +46,9 @@ W dużym garnku rozgrzewamy olej, tak aby było go 3-4 cm od dna. Wkładamy poje
 
 Układamy falafele na talerzu posypujemy świeżą kolendrą.
 
-## Porada: ##
+## Porady: ##
 
-Zamiast blendera, można użyć maszynki do mięsa, aby otrzymać masę na falafel.</br>
-Spróbuję następnym razem.
+1. Do falafel nie nadaje się ciecierzyca z puszki, gdyż jest ona ugotowana i zawiera więcej wody, przez co traci swoje właściwości spajające nasze kotleciki.
+2. Zamiast blendera, można użyć maszynki do mięsa, aby otrzymać masę na falafel.</br>
 
 </div>
