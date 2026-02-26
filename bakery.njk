@@ -15,14 +15,16 @@ description: Domowe wypieki na każdą okazję! Odkryj przepisy na puszysty sern
 </div>
 
 <section class="card-grid">
-    {% for recipe in collections.wypieki %}
+    {% for recipe in collections.wypieki | sort(attribute='data.date') %}
     <article class="card">
         <h2 class="card-title">{{ recipe.data.title }}</h2>
         <a href="{{ recipe.url }}" class="card-media">
             <img
                 src="/public/img/{{ recipe.data.image }}"
                 alt="{{ recipe.data.title }}"
-                loading="lazy"
+                fetchpriority="high"
+                decoding="async"
+                loading="lazy">
             />
         </a>
     </article>

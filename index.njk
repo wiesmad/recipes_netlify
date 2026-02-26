@@ -15,7 +15,7 @@ description: proste przepisy na dania wegańskie, makarony, wypieki, chleb i pot
 </div>
 
 <section class="card-grid">
-    {% for recipe in collections.recipes %}
+    {% for recipe in collections.recipes | sort(attribute='data.date') %}
     <article class="card">
         <h2 class="card-title">{{ recipe.data.title }}</h2>
         <a href="{{ recipe.url }}" class="card-media">
@@ -23,7 +23,8 @@ description: proste przepisy na dania wegańskie, makarony, wypieki, chleb i pot
                 src="/public/img/{{ recipe.data.image }}"
                 alt="{{ recipe.data.title }}"
                 fetchpriority="high"
-                decoding="async">
+                decoding="async"
+                loading="lazy">
         </a>
 
     </article>
