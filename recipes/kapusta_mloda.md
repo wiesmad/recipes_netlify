@@ -1,7 +1,7 @@
 ---
 title: Kapusta młoda
 permalink: /kapusta-mloda/
-description: Młoda kapusta duszona na krótko to szybkie, sezonowe danie jako dodatek do mięs.
+body_description: Młoda kapusta duszona na krótko to szybkie, sezonowe danie jako dodatek do mięs.
 date: 2026-01-24
 tags: ['vege']
 image: kapusta-mloda.webp

@@ -4,14 +4,3 @@
 
 [build.environment]
   NODE_VERSION = "18"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    Cache-Control = "public, max-age=3600"
-
-  # Dłuższy cache dla assetów (obrazy, js, css)
-[[headers]]
-  for = "/static/*"
-  [headers.values]
-    Cache-Control = "public, max-age=604800, immutable"

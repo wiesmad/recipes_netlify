@@ -1,34 +1,13 @@
 ---
 layout: base.njk
 title: Przepisy
-description: proste przepisy na dania wegańskie, makarony, wypieki, chleb i potrawy z całego świata.
+seo_description: Proste przepisy na dania wegańskie, makarony, wypieki, chleb i potrawy z całego świata.
 ---
 
 <!-- CONTENT -->
 
-<div class="container">
-
-<div class="page-title">
-    <h1>{{ title }}</h1>
-    <p>Proste przepisy na dania wegańskie, makarony,
-    wypieki, chleb i potrawy z całego świata.</p>
-</div>
-
 <section class="card-grid">
     {% for recipe in collections.recipes | sort(attribute='data.date') %}
-    <article class="card">
-        <h2 class="card-title">{{ recipe.data.title }}</h2>
-        <a href="{{ recipe.url }}" class="card-media">
-            <img
-                src="/public/img/{{ recipe.data.image }}"
-                alt="{{ recipe.data.title }}"
-                fetchpriority="high"
-                decoding="async"
-                loading="lazy">
-        </a>
-
-    </article>
+        {% include "partials/card_grid.njk" %}
     {% endfor %}
 </section>
-
-</div>

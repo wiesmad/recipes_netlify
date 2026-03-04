@@ -1,7 +1,7 @@
 ---
 title: Zupa brokułowa
 permalink: /zupa-brokulowa/
-description: Gęsta, kremowa, lekko ostra zupa z brokuła to idealny pomysł na starter przed czymś bardziej treściwym.
+body_description: Gęsta, kremowa, lekko ostra zupa z brokuła to idealny pomysł na starter przed czymś bardziej treściwym.
 date: 2026-02-22
 tags: ['vege']
 image: brokulowa.webp

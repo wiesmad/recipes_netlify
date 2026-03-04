@@ -181,8 +181,6 @@ a {
 
 /*RECIPE CONTENT*/
 .recipe {
-    /*display: flex;
-    flex-direction: column;*/
     background: rgb(237, 237, 237, 0.9);
     border-radius: 6px;
     overflow: hidden;
@@ -191,37 +189,83 @@ a {
 
 .recipe-hero {
     display: grid;
-    grid-template-columns: repeat(
-        auto-fit,
-        minmax(min(var(--min-col-size), 100%), 1fr)
-    );
+    grid-template-columns: 1fr 1fr; /* Tworzy dwie równe kolumny */
+    gap: 2rem;
     margin-bottom: 2rem;
-
-    p {
-        align-self: center;
-        justify-self: center;
-        padding: 1rem 1rem;
-        text-indent: 1.5em;
-    }
 
     img {
         width: 100%;
-        aspect-ratio: 1 / 1;
-        object-fit: cover;
-        border-radius: 6px;
+        height: auto;
     }
 }
 
-.recipe-description {
+.recipe-data {
+    p.description {
+        padding-inline: 1rem;
+        padding-top: 3rem;
+        text-indent: 1.5em;
+    }
+}
+
+.recipe-meta {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Montserrat", sans-serif;
+    padding: 20px 0;
+    border-bottom: 1px solid #e0e0e0; /* Dolna linia */
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.meta-item {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    border-right: 1px solid #e0e0e0; /* Pionowe linie rozdzielające */
+
+    svg {
+        width: 3rem;
+        height: 1.5rem;
+        stroke: var(--color-logo);
+        fill: transparent;
+    }
+}
+
+/* Usuwamy linię z ostatniego elementu po prawej */
+.meta-item:last-child {
+    border-right: none;
+}
+
+.icon {
+    color: hotpink; /* Ten charakterystyczny morski kolor z obrazka */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.label {
+    color: #375a64; /* Ciemny, stalowy kolor tekstu */
+    font-weight: bold;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.recipe-instruction {
     padding: 1rem;
 
     ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
-        /*text-align: center;*/
-        line-height: 2;
         margin-bottom: 1rem;
+    }
+
+    ul.ingredients {
+        line-height: 2;
     }
 
     p {
@@ -312,12 +356,20 @@ footer {
         padding-inline: 0;
     }
 
-    h1 {
-        padding-left: 4%;
+    .page-title {
+        padding-inline: 1rem;
     }
 
-    .page-title h1 {
-        padding-left: 0;
+    .recipe-hero {
+        grid-template-columns: 1fr;
+    }
+
+    .recipe-data {
+        p.description {
+            padding-inline: 1rem;
+            padding-top: 1rem;
+            text-indent: 1.5em;
+        }
     }
 
     .about {

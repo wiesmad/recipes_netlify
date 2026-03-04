@@ -1,7 +1,7 @@
 ---
 title: Sernik pieczony
 permalink: /sernik-pieczony/
-description: Przepis na sernik pieczony – klasyczny, prosty sernik na szybko. Sprawdzone proporcje i wskazówki krok po kroku.
+body_description: Przepis na sernik pieczony – klasyczny, prosty sernik na szybko. Sprawdzone proporcje i wskazówki krok po kroku.
 date: 2026-01-18
 tags: ['wypieki']
 image: sernik-pieczony.webp
@@ -29,11 +29,16 @@ Ogólnie to nie lubię piec ciast, za dużo z nimi roboty. Jak już, to szukam p
 
 ## Co i jak:
 
-Wszystkie składniki (o temperaturze pokojowej) umieścić w mikserze i mieszać aż uzyskamy jednorodną masę.
+Wszystkie składniki umieścić w mikserze i mieszać aż uzyskamy jednorodną masę.
 
 Małą tortownicę o średnicy 20 cm wysmarować masłem i obsypać mąką kukurydzianą. Przelać do niej masę serową i wstawić do rozgrzanego do 170 stopni piekarnika i piec 90 minut.
 
 Po wyjęciu ostudzić i posypać cukrem pudrem.
+
+## Porady:
+
+1. Sernik zawsze trochę opadnie. Aczkowiek, można zminimalizować ten efekt mieszając wszystkie składniki w temperaturze pokojowej. Nie za szybko, aby masa serowa się nie napowietrzyła. 
+2. Po upieczeniu zostawić sernik w otwartym piekarniku, aby powoli ostygł. 
 
 *Przepis z bloga kulinarnego: Olga Smile*
 

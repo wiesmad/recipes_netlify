@@ -1,7 +1,7 @@
 ---
 title: Makaron z kurczakiem
 permalink: /makaron-z-kurczakiem-i-pomidorami/
-description: Przepis na makaron z kurczakiem i pomidorami – to szybkie danie, które zawsze się sprawdza i nie nudzi.
+body_description: Przepis na makaron z kurczakiem i pomidorami – to szybkie danie, które zawsze się sprawdza i nie nudzi.
 date: 2026-02-21
 tags: ['makaron']
 image: makaron-kurczak.webp

@@ -1,10 +1,10 @@
 <article class="card">
     <h2 class="card-title">{{ recipe.data.title }}</h2>
     <a href="{{ recipe.url }}" class="card-media">
-        <img
-            src="/public/img/{{ recipe.data.image }}"
-            alt="{{ recipe.data.title }}"
-            fetchpriority="high"
-            decoding="async">
+    <img
+        src="/public/img/{{ recipe.data.image }}"
+        alt="{{ recipe.data.title }}"
+        decoding="async"
+        loading="lazy">
     </a>
 </article>

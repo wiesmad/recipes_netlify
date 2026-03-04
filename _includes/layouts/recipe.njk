@@ -2,9 +2,83 @@
 layout: base.njk
 ---
 
-<div class="container full">
-    <h1 class="page-title">{{ title }}</h1>
-    <div class="recipe">
-        {{ content | safe }}
+<div class="recipe">
+    <div class="recipe-hero">
+        <div class="recipe-data">
+            <div class="recipe-meta">
+                <div class="meta-item">
+                    <div class="icon">
+                        <svg class="icon-style">
+                            <use href="/public/img/sprite.svg#icon-time"></use>
+                        </svg>
+                    </div>
+                <div class="label">{{ time }}</div>
+                </div>
+
+                <div class="meta-item">
+                    <div class="icon">
+                        <svg class="icon-style">
+                            <use href="/public/img/sprite.svg#icon-servings"></use>
+                        </svg>
+                    </div>
+                <div class="label">{{ porcje }}</div>
+                </div>
+
+                <div class="meta-item">
+                    <div class="icon">
+                        <svg class="icon-style">
+                            <use href="/public/img/sprite.svg#icon-kcal"></use>
+                        </svg>
+                    </div>
+                <div class="label">{{ kalorie }}</div>
+                </div>
+
+                <div class="meta-item">
+                    <div class="icon">
+                         <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                            <rect x="3" y="14" width="4" height="6" rx="1" opacity="1" />
+                            <rect x="10" y="10" width="4" height="10" rx="1" opacity="{{ '1' if poziom == 'średni' or poziom == 'trudny' else '0.3' }}" />
+                            <rect x="17" y="4" width="4" height="16" rx="1" opacity="{{ '1' if poziom == 'trudny' else '0.3' }}" />
+                        </svg>
+                    </div>
+                <div class="label">{{ poziom }}</div>
+                </div>
+
+            </div>
+            <p class="description">{{ body_description }}</p>
+        </div>
+        <div>
+            <img src="/public/img/{{ image }}" alt="{{ imageAlt }}" fetchpriority="high">
+        </div>
+    </div>
+
+    <div class="recipe-instruction">
+        <h2>Składniki:</h2>
+            {% if ingredients %}
+                <ul class="ingredients">
+                    {% for item in ingredients %}
+                        <li>{{ item }}</li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+
+        <h2>Co i jak:</h2>
+            {% if ingredients %}
+                <ul>
+                    {% for item in instructions %}
+                        <li><p>{{ item }}</p></li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        <h2>Porada:</h2>
+            <p>{{ porada }}</p>
+            <p><i>{{ date | myDate }}</i></p>
     </div>
 </div>
+
+
+{% if recipeSchema %}
+    <script type="application/ld+json">
+        {{ recipeSchema | safe }}
+    </script>
+{% endif %}

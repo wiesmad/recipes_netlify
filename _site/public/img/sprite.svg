@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+
+  <symbol id="icon-time" viewBox="0 0 24 24">
+    <circle
+            cx="12"
+            cy="12"
+            r="10"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+        />
+    <polyline
+            points="12 6 12 12 16 14"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+        />
+  </symbol>
+
+  <symbol id="icon-servings" viewBox="0 0 24 24">
+    <path
+            d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+        />
+    <circle
+            cx="12"
+            cy="7"
+            r="4"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+        />
+  </symbol>
+
+  <symbol id="icon-difficulty" viewBox="0 0 24 24" fill="currentColor">
+    <rect x="3" y="14" width="4" height="6" rx="1" opacity="1" />
+    <rect
+            x="10"
+            y="10"
+            width="4"
+            height="10"
+            rx="1"
+            opacity="{{ '1' if poziom == 'średni' or poziom == 'trudny' else '0.3' }}"
+        />
+    <rect
+            x="17"
+            y="4"
+            width="4"
+            height="16"
+            rx="1"
+            opacity="{{ '1' if poziom == 'trudny' else '0.3' }}"
+        />
+  </symbol>
+
+<symbol id="icon-kcal" viewBox="0 0 24 24">
+    <text
+            x="12"
+            y="15.5"
+            text-anchor="middle"
+            font-family="Arial, Helvetica, sans-serif"
+            font-size="12"
+            font-weight="400"
+            fill="currentColor"
+            style="letter-spacing: 0.8px; text-transform: uppercase;"
+        >KCAL</text>
+</symbol>
+
+</svg>

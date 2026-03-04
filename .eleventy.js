@@ -1,3 +1,5 @@
+const { DateTime } = require("luxon");
+
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("public");
 
@@ -6,9 +8,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("robots.txt");
   // Kopiuje zawartość public/fonts do folderu fonts w _site
   eleventyConfig.addPassthroughCopy({ "public/fonts": "fonts" });
+  // Format date filter
+  eleventyConfig.addFilter("myDate", (dateString) => {
+    dateObj = new Date(dateString);
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat("dd.MM.yyyy");
+  });
 
   return {
-    // ADD THESE TWO LINES:
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
 

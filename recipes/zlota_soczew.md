@@ -1,7 +1,7 @@
 ---
 title: Złota soczewicowa
 permalink: /zlota-soczewicowa/
-description: Złota soczewicowa – poznaj przepis na szybką i aromatyczną zupę z czerwoną soczewicą, kurkumą i mlekiem kokosowym. Idealne danie vege w orientalnym stylu.
+body_description: Złota soczewicowa – poznaj przepis na szybką i aromatyczną zupę z czerwoną soczewicą, kurkumą i mlekiem kokosowym. Idealne danie vege w orientalnym stylu.
 date: 2026-01-03
 tags: ['vege']
 image: zlota-soczewicowa.webp

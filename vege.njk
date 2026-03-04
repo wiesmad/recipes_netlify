@@ -2,33 +2,13 @@
 layout: base.njk
 title: Vege
 permalink: /vege/
-description: Szukasz pomysłu na obiad bez mięsa? Odkryj najlepsze przepisy wegetariańskie i wegańskie. Od złotej soczewicowej po spaghetti z bakłażanem. Gotuj zdrowo z Farfalle!
+seo_description: Przpisy wegatariańskie - czyli dobrze jest czasem odpocząć od mięsa.
 ---
 
 <!-- CONTENT -->
 
-<div class="container">
-
-<div class="page-title">
-    <h1>{{ title }}</h1>
-    <p>Dobrze jest czasem odpocząć od mięsa i spróbować dań roślinnych.</p>
-</div>
-
 <section class="card-grid">
-    {% for recipe in collections.vege | sort(attribute='data.date') %}
-    <article class="card">
-        <h2 class="card-title">{{ recipe.data.title }}</h2>
-        <a href="{{ recipe.url }}" class="card-media">
-            <img
-                src="/public/img/{{ recipe.data.image }}"
-                alt="{{ recipe.data.title }}"
-                fetchpriority="high"
-                decoding="async"
-                loading="lazy">"
-            />
-        </a>
-    </article>
+    {% for recipe in collections.vege %}
+        {% include "partials/card_grid.njk" %}
     {% endfor %}
 </section>
-
-</div>

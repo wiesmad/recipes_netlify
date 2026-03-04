@@ -1,7 +1,7 @@
 ---
 title: Pizza domowa
 permalink: /pizza-domowa/
-description: Domowa pizza krok po kroku – czyli jak zrobić pizzę w domu. Przepis na chrupiącą pizzę z piekarnika z farfalle.pl.
+body_description: Domowa pizza krok po kroku – czyli jak zrobić pizzę w domu. Przepis na chrupiącą pizzę z piekarnika z farfalle.pl.
 date: 2026-01-01
 tags: ['wypieki']
 image: pizza.webp

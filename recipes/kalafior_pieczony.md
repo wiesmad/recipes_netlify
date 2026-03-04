@@ -1,7 +1,7 @@
 ---
 title: Kalafior pieczony
 permalink: /kalafior-pieczony/
-description: Przepis na pieczony kalafior – zdrowe i wegetariańskie danie z piekarnika. Pyszne różyczki z ziołami i przyprawami, idealne na obiad lub kolację.
+body_description: Przepis na pieczony kalafior – zdrowe i wegetariańskie danie z piekarnika. Pyszne różyczki z ziołami i przyprawami, idealne na obiad lub kolację.
 date: 2026-01-22
 tags: ['vege']
 image: kalafior-pieczony.webp

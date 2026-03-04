@@ -3,18 +3,19 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="{{ description }}">
+        <meta name="description" content="{{ seo_description }}">
         <meta name="robots" content="index, follow" />
         <meta property="og:title" content="{{ title }}">
-        <meta property="og:description" content="{{ description }}">
+        <meta property="og:description" content="{{ seo_description }}">
         <meta property="og:image" content="{{ metadata.url }}{{ baseImgPath }}{{ image }}">
+        <link rel="preload" href="/public/img/bckgr.webp" as="image" fetchpriority="high">
         <link rel="preload" href="/public/css/style.css" as="style">
         <link rel="stylesheet" href="/public/css/style.css" />
         <link rel="canonical" href="{{ metadata.url }}{{ page.url }}" />
         <link rel="preload" href="/public/fonts/imperial.woff2" as="font" type="font/woff2" crossorigin>
         <link rel="icon" href="/public/img/favicon.png" type="image/png" />
         <script src="/public/js/script.js" defer></script>
-        <title>Farfalle | {{ title }}</title>
+        <title>{{ seo_title }}</title>
     </head>
 
     <body>
@@ -38,7 +39,17 @@
             </div>
         </header>
 
-        <main>{{ content | safe }}</main>
+        <main>
+            <div class="container full">
+                <div class="page-title">
+                    <h1>{{ title }}</h1>
+                    <p>{{ seo_description }}</p>
+                </div>
+
+                 {{ content | safe }}
+
+            </div>
+        </main>
 
         <footer>
             <p>&copy; 2026 Farfalle - Wiesław Mazurak</p>

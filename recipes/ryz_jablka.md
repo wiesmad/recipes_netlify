@@ -1,7 +1,7 @@
 ---
 title: Ryż z jabłkami
 permalink: /ryz-z-jablkami/
-description: Ryż zapiekany z jabłakami to ulubione danie z mojego dzieciństwa. Robiło się go w prodiżu elektrycznym.
+body_description: Ryż zapiekany z jabłakami to ulubione danie z mojego dzieciństwa. Robiło się go w prodiżu elektrycznym.
 date: 2026-02-14
 tags: ['inne']
 image: ryz-z-jablkami.webp

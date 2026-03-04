@@ -2,33 +2,13 @@
 layout: base.njk
 title: Wypieki
 permalink: /wypieki/
-description: Domowe wypieki na każdą okazję! Odkryj przepisy na puszysty sernik, chrupiący chleb żytni, pizzę i widowiskowe Dutch Baby. Upiecz coś pysznego z Farfalle.pl!
+seo_description: No gluten no fun! - czyli przepisy na prosty sernik, chrupiący chleb, pizzę czy widowiskowe Dutch Baby.
 ---
 
 <!-- CONTENT -->
 
-<div class="container">
-
-<div class="page-title">
-    <h1>{{ title }}</h1>
-    <p>No Gluten No Fun. Czyli jak upiec chleb żytni na zakwasie lub Dutch Baby!</p>
-</div>
-
 <section class="card-grid">
-    {% for recipe in collections.wypieki | sort(attribute='data.date') %}
-    <article class="card">
-        <h2 class="card-title">{{ recipe.data.title }}</h2>
-        <a href="{{ recipe.url }}" class="card-media">
-            <img
-                src="/public/img/{{ recipe.data.image }}"
-                alt="{{ recipe.data.title }}"
-                fetchpriority="high"
-                decoding="async"
-                loading="lazy">
-            />
-        </a>
-    </article>
+    {% for recipe in collections.wypieki %}
+        {% include "partials/card_grid.njk" %}
     {% endfor %}
 </section>
-
-</div>
