@@ -7,7 +7,7 @@ time: 30 MIN.
 schemaTime: PT30M
 porcje: 1-2
 kalorie: ~920
-poziom: łatwy
+poziom: średni
 tags: ['wypieki']
 image: pizza.webp
 imageAlt: pizza margheritta na okrągłej desce

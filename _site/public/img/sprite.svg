@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
 
-  <symbol id="icon-time" viewBox="0 0 24 24">
+<symbol id="icon-time" viewBox="0 0 24 24">
     <circle
             cx="12"
             cy="12"
@@ -18,9 +18,9 @@
             stroke-linecap="round"
             stroke-linejoin="round"
         />
-  </symbol>
+</symbol>
 
-  <symbol id="icon-servings" viewBox="0 0 24 24">
+<symbol id="icon-servings" viewBox="0 0 24 24">
     <path
             d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"
             fill="none"
@@ -39,9 +39,9 @@
             stroke-linecap="round"
             stroke-linejoin="round"
         />
-  </symbol>
+</symbol>
 
-  <symbol id="icon-difficulty" viewBox="0 0 24 24" fill="currentColor">
+<symbol id="icon-difficulty" viewBox="0 0 24 24" fill="currentColor">
     <rect x="3" y="14" width="4" height="6" rx="1" opacity="1" />
     <rect
             x="10"
@@ -59,7 +59,7 @@
             rx="1"
             opacity="{{ '1' if poziom == 'trudny' else '0.3' }}"
         />
-  </symbol>
+</symbol>
 
 <symbol id="icon-kcal" viewBox="0 0 24 24">
     <text
