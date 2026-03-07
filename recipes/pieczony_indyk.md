@@ -1,25 +1,19 @@
 ---
 title: Filet z indyka pieczony
+seo_title: Przepis na pieczony filet z indyka
 permalink: /pieczony-filet-z-indyka/
-body_description: Soczysty filet z indyka. Pieczony, z sosem śmietanowym i szuszonymi pomidorami.
-date: 2026-02-08
-tags: ['inne']
+date: 2026-01-15
+time: 3 GODZ.
+schemaTime: PT3H
+porcje: 2-3
+kalorie: ~450
+poziom: średni
+tags: ['mięso']
 image: filet-indyka-pieczony.webp
-imageAlt: upieczony filet z indyka z sosem śmietanowym
----
-
-<div class="recipe-hero">
-
-Bardzo proste, a jakże wykwintne danie z pieczonego fileta indyka. Można użyć dowolnych przypraw wedle gustu. Filet z indyka jest mięsem chudym, dlatego należy uważać z czasem pieczenia, bo łatwo je wysuszyć. Moja ulubiona wersja jest z sosem śmietanowym plus ryż na sypko lub kasza Bulgur. Można też po prostu schować do lodówki i wykorzystać na <a href="/makaron-z-kurczakiem-i-pomidorami/"><u>szybki obiad z makaronem</u></a>
-
-<img src="/public/img/{{ image }}" alt="{{ imageAlt }}" loading="lazy">
-
-</div>
-
-<div class="recipe-description">
-
-## Składniki:
-
+imageAlt: pieczony filet z indyka z sosem śmietanowym
+seo_description: Soczysty filet z indyka z sosem śmietanowym i szuszonymi pomidorami.
+body_description: "Bardzo proste, a jakże wykwintne danie z pieczonego fileta indyka. Do marynaty można użyć wg. uznania: wędzonej papryki, czosnku i suszonego tymianku, skórki z cytryny, rozmarynu i kolorowego pieprzu. Filet z indyka jest mięsem chudym, dlatego należy uważać z czasem pieczenia, bo łatwo je wysuszyć. Moja ulubiona wersja jest z sosem śmietanowym plus ryż na sypko lub kasza Bulgur. Można też po prostu schować do lodówki i wykorzystać na szybki obiad np. z makaronem lub jako wędlinę do kanapek."
+ingredients:
 - 1 filet z indyka
 - Śmietana UHT 18%
 - 1 cebula
@@ -27,15 +21,13 @@ Bardzo proste, a jakże wykwintne danie z pieczonego fileta indyka. Można uży�
 - 1/2 łyżeczki papryki ostrej
 - 1/2 łyżeczki majeranku
 - sól i pieprz
-
-## Co i jak:
-
-Mięso wyjmujemy z lodówki, płuczemy pod bieżącą, zimną wodą. Osuszamy, nacieramy przyprawami i zostawiamy w temperaturze pokojowej na ok. 2 godziny.
-
-Piekarnik rozgrzewamy do 160°C. Filet przekładamy do żaroodpornego naczynia z pokrywką i pieczemy 90 minut.
-
-**Sos:** Cebulę kroimy w kostkę i szklimy na oleju. Dodajemy posiekany czosnek i jeszcze chwilę smażymy. Wlewamy 300 ml śmietanki i gotujemy na wolnym ogniu. Gdy sos się zredukuje i zgęstnieje, dodajemy kilka pokrojonych suszonych pomidorów z zalewy. Doprawiamy solą i pieprzem.
-
-Gdy mięso jest już gotowe, wyjmujemy je na deskę i dajemy mu odpocząć ok. 10 minut, po czym kroimy w grube plastry. Można je włożyć do sosu lub ułożyć na talerzu i polać. Posypujemy zieloną pietruszką.
-
-</div>
+instructions:
+- Mięso wyjmujemy z lodówki, płuczemy pod bieżącą, zimną wodą. Osuszamy, nacieramy przyprawami i zostawiamy w temperaturze pokojowej na ok. 2 godziny.
+- Piekarnik rozgrzewamy do 160°C. 
+- Filet przekładamy do żaroodpornego naczynia z pokrywką i pieczemy 90 minut.
+- Po upieczeniu przekładamy mięso na deskę, przykrywamy folią aluminiową i zostawiamy na 10 minut aby odpoczęło.
+extra:
+- "Sos: Cebulę kroimy w kostkę i szklimy na oleju. Dodajemy posiekany czosnek i jeszcze chwilę smażymy. Wlewamy 300 ml śmietanki i gotujemy na wolnym ogniu. Gdy sos się zredukuje i zgęstnieje, dodajemy kilka pokrojonych suszonych pomidorów z zalewy. Doprawiamy solą i pieprzem."
+- Gdy mięso jest już gotowe kroimy je grube plastry. Można je włożyć do sosu lub ułożyć na talerzu i polać. Posypujemy zieloną pietruszką
+porada: Owe 10 minut odpoczynku mięsa po upieczeniu jest bardzo ważne, gdyż w tym czasie następuje wyrównanie temperatury oraz rozprowadzenie soków wewnątrz pieczeni. Dzięki czemu nasz filet powinien być soczysty i miękki.
+---

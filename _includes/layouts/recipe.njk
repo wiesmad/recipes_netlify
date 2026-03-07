@@ -71,6 +71,10 @@ layout: base.njk
                 </ul>
             {% endif %}
 
+                {% if extra %}
+                        <p>{{ extra }}</p>
+                {% endif %}
+
                 {% if porada %}
                     <h2>Porada:</h2>
                         <p>{{ porada }}</p>
