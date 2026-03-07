@@ -4,7 +4,7 @@ seo_title: Przepis na chleb indyjski roti chapati phulka
 permalink: /roti/
 date: 2026-01-05
 time: 30 MIN.
-schemaTime: PT20MIN
+schemaTime: PT20M
 porcje: 2-4
 kalorie: ~700
 poziom: łatwy

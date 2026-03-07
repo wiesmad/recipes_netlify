@@ -12,7 +12,7 @@ tags: ['wypieki']
 image: dutch-baby.webp
 imageAlt: pieczony naleśnik dutch baby z owocami
 seo_description: Czyli pieczony naleśnik po amerykańsku.
-body_description: Nazwa tego dania sugeruje, iż wywodzi się ono z Holandii, jednakże prawda jest taka, że to naleśnik z piekarnika rodem z USA a dokładnie z Seatle. Tak czy owak, to świetny pomysł na śniadania zarówno dla dzieci jak i dorosłych. Jedyna trudność polega na tym, że potrzebna jest patelnia, najlepiej żeliwna, którą można umieścić w gorącym piekarniku. Osobiście używam do tego celu pokrywki garnka żeliwnego, notabene zwanego dutch oven.
+body_description: Nazwa tego dania sugeruje, iż wywodzi się ono z Holandii, jednakże prawda jest taka, że to naleśnik z piekarnika rodem z USA a dokładnie z Seatle. Tak czy owak, to świetny pomysł na śniadania zarówno dla dzieci jak i dorosłych. Jedyna trudność polega na tym, że potrzebna jest patelnia, którą można umieścić w gorącym piekarniku. Osobiście używam do tego celu pokrywki garnka żeliwnego, notabene zwanego dutch oven.
 ingredients: 
 - 4 jajka
 - 150 ml mleka

@@ -5,7 +5,7 @@ permalink: /kozacka-soczewicowa/
 date: 2026-01-11
 time: 50 MIN.
 schemaTime: PT50M
-porcje: 5-6
+porcje: 4-5
 kalorie: ~1820
 poziom: łatwy
 tags: ['vege']
@@ -27,12 +27,14 @@ ingredients:
 - 1/2 łyżeczki ostrej papryki
 - 1/2 łyżeczki kminku
 - 1/2 łyżeczki mielonej kolendry
+- 2 łyżki sosu sojowego
 - olej do smażenia
 - sól i pieprz do smaku
 instructions:
 - Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i goździkiem. Następnie dodać posiekany czosnek, a po ok. 1 minucie koncentrat pomidorowy. Całość smażyć, często mieszając następne 5 minut.
 - Dolać 2 litry bulionu, a następnie dodać soczewicę i pokrojone w dużą kostkę ziemniaki. Gotować na małym ogniu pod przykryciem ok. 30 minut, aż soczewica i ziemniaki zmiękną.
-- Pozostałe przyprawy podsmażyć kilka minut na oleju na małej patelni, aż zaczną intensywnie pachnieć. Następnie dodać je do zupy i wymieszać.
-- Gotować jescze kilka minut i odstawić
+- Pozostałe przyprawy podsmażyć kilka minut na oleju na małej patelni, aż zaczną intensywnie pachnieć. Następnie dodać je do zupy wraz z sosem sojowym i wymieszać.
+- Gotować jescze kilka minut i odstawić.
+- Przepis zaczerpnięty z z Jadłonomii Marty Dymek.
 porada: Lepiej smakuje na drugi dzień.
 ---
