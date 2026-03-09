@@ -12,7 +12,7 @@ tags: ['wypieki']
 image: chleb-farmerski.webp
 imageAlt: pokrojony chrupiący chleb farmerski na desce
 seo_description: Przepis na domowy, zdrowy, pszenny chleb na zakwasie z chrupiącą skórką. Wszyscy go uwielbiają.
-body_description: Uwielbiam ten chleb! Jednak w przeciwieństwie do chleba żytniego z foremki, który w zasadzie robi się sam, ten wymaga nieco więcej pracy. Konieczne jest ręczne uformowanie bochenka z ciasta o hydracji 80%, co sprawia, że jest ono bardzo klejące i wymaga nieco wprawy. Potrzebna też jest dobra mąka o zawartości białka minimum 12% co przekłada się na tworzenie silnej siatki glutenowej. W efekcie otrzymamy pachnący, chrupiący bochenk, który znika ze w mgnieniu oka.
+body_description: Uwielbiam ten chleb! Jednak w przeciwieństwie do chleba żytniego z foremki, który w zasadzie robi się sam, ten wymaga nieco więcej pracy. Konieczne jest ręczne uformowanie bochenka z ciasta o hydracji 80%, co sprawia, że jest ono bardzo klejące i wymaga nieco wprawy. Potrzebna też jest dobra mąka o zawartości białka minimum 12% co przekłada się na tworzenie silnej siatki glutenowej. W efekcie otrzymamy pachnący, chrupiący bochenk, który znika ze stołu w mgnieniu oka.
 ingredients: 
   - 80 g aktywnego zakwasu
   - 80 g mąki pszennej razowej

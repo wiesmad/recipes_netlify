@@ -12,7 +12,7 @@ tags: ['wypieki']
 image: pizza.webp
 imageAlt: pizza margherita na okrągłej desce
 seo_description: Domowa pizza neapolitańska z piekarnika krok po kroku.
-body_description: "Sekretem pizzy neapolitańskiej jest długo dojrzewające ciasto, stąd potrzebuje ono jedynie minimalnej ilości drożdży, aby nie wyrosło za bardzo. Największym ograniczeniem jest natomiast brak odpowiedniego pieca. Nie wspomnę już o piecu opalanym drewnem, ale nawet najlepsze piekarniki domowe, które mają tzw. 'funkcję pizza' nie dają rady, gdyż rozgrzewają się najwyżej do 300°C, co jest niewystarczające. Z tego powodu musimy naszą pizzę trzymać w piekarniku o wiele dłużej, przez co składniki na topie się wysuszają i przypiekają. Nie mniej jednak zachęcam do próbowania. Zawsze to dobre doświadczenie i satysfakcja."
+body_description: "Sekretem pizzy neapolitańskiej jest długo dojrzewające ciasto, stąd potrzebuje ono jedynie minimalnej ilości drożdży, aby nie wyrosło za bardzo. Największym ograniczeniem przy robieniu pizzy domowej, jest natomiast brak odpowiedniego pieca. Nie wspomnę już o piecu opalanym drewnem, ale nawet najlepsze standardowe piekarniki, które mają tzw. 'funkcję pizza' nie dają rady, gdyż rozgrzewają się najwyżej do 300°C. Niestety to trochę za mało. Z tego powodu musimy naszą pizzę trzymać w piekarniku o wiele dłużej, przez co składniki na topie się wysuszają i przypiekają. Nie mniej jednak zachęcam do próbowania. Zawsze to dobre doświadczenie i satysfakcja."
 ingredients:
 - 500 g mąki na pizzę typ 00
 - 340 ml letniej wody
