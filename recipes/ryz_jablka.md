@@ -11,7 +11,7 @@ poziom: łatwy
 tags: ['deser']
 image: ryz-z-jablkami.webp
 imageAlt: zapiekany ryż z jabłkami w miseczce
-seo_description: To ulubione danie z mojego dzieciństwa. Maślane, pachnące cynamonem.
+seo_description: To maślane, pachnące cynamonem, ulubione danie z mojego dzieciństwa.
 body_description: "Ryż zapiekany z jabłkami to jedno z tych prostych, domowych dań, które na zawsze zostają w pamięci. Pamiętam je z dzieciństwa. Moja mama przygotowywała je w elektrycznym prodiżu, a zapach pieczonych jabłek, masła i cukru wypełniał cały dom. Z pozoru to bardzo skromny deser lub słodki obiad: ryż, jabłka, odrobina masła i cukru. A jednak jego smak był wyjątkowy. W dorosłym życiu wielokrotnie próbowałem odtworzyć to danie, ale zawsze miałem wrażenie, że czegoś w nim brakuje. Być może to kwestia wspomnień, a może jednak sekret tkwi w starym prodiżu."
 ingredients:
 - 200 g ryżu
