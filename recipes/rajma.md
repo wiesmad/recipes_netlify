@@ -1,6 +1,6 @@
 ---
 title: Rajma 
-seo_title: Przepis na indyjską Rajma Masal
+seo_title: Przepis na indyjską Rajma Masala
 permalink: /rajma/
 date: 2026-01-16
 time: 1 GODZ.

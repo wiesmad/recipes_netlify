@@ -31,7 +31,7 @@ ingredients:
 - olej do smażenia
 - sól i pieprz do smaku
 instructions:
-- Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i goździkiem. Następnie dodać posiekany czosnek, a po ok. 1 minucie koncentrat pomidorowy. Całość smażyć, często mieszając następne 5 minut.
+- Cebulę zeszklić na oleju w dużym garnku wraz z zielem angielskim i goździkiem. Następnie dodać posiekany czosnek, a po ok. 1 minucie koncentrat pomidorowy. Całość smażyć, często mieszając następne 3-4 minuty.
 - Dolać 2 litry bulionu, a następnie dodać soczewicę i pokrojone w dużą kostkę ziemniaki. Gotować na małym ogniu pod przykryciem ok. 30 minut, aż soczewica i ziemniaki zmiękną.
 - Pozostałe przyprawy podsmażyć kilka minut na oleju na małej patelni, aż zaczną intensywnie pachnieć. Następnie dodać je do zupy wraz z sosem sojowym i wymieszać.
 - Gotować jescze kilka minut i odstawić.
