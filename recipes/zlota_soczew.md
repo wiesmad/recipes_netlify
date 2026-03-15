@@ -2,7 +2,7 @@
 title: Złota soczewicowa
 seo_title: Przepis na złotą zupę z czerwonej soczewicy
 permalink: /złota-soczewicowa/
-date: 2026-01-12
+date: 2026-01-21
 time: 45 MIN.
 schemaTime: PT45M
 porcje: 4-5
