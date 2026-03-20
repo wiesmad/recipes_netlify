@@ -363,7 +363,7 @@ footer {
     color: #333;
 }
 
-/* Responsive Mobile Styles */
+/* RESPONSIVE MOBILE STYLE */
 @media (max-width: 768px) {
     body::before {
         content: "";
