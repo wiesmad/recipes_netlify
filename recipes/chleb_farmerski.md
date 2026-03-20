@@ -25,10 +25,10 @@ instructions:
   - Z drugim razem składamy ciasto tak samo jak za pierwszym, z tym że teraz wystarczy, że zrobimy to powiedzmy 8 razy. Znów odstawiamy na 40 minut.
   - Trzeci etap składania wygląda tak samo jak drugi i czekamy znów 40 minut.
   - Teraz przekładamy ciasto z miski na blat oprószony obficie mąką i składamy 8-krotnie do środka, po czym obracamy ciasto górą do dołu i formujemy z grubsza bochenek. Zostawiamy na blacie 10 minut.
-  - Przystępujemy do finałowego uformowania naszego chleba. Znów obracamy ciasto o 180 stopni, ponownie składamy 4 brzegi do środka, jeszcze raz obracamy i nadajemy ciastu kształt nieco spłaszczonej kuli.
+  - Przystępujemy do finałowego uformowania naszego chleba. Znów obracamy ciasto o 180°, ponownie składamy 4 brzegi do środka, jeszcze raz obracamy i nadajemy ciastu kształt nieco spłaszczonej kuli.
   - Przekładamy ciasto do koszyka wyłożonego tkaniną i obsypanego mąką (górą do dołu). Nakrywamy czepkiem pod prysznic i odstawiamy na noc do lodówki.
   - Nazajutrz, rozgrzewamy piekarnik razem z garnkiem żeliwnym do 230 stopni C. Gdy będzie już gorący, wyjmujemy ciasto z lodówki, przekładamy na papier do pieczenia wyłożony na blacie, nacinamy z góry i chwytając za brzegi papieru umieszczamy bochenek w garnku żeliwnym. Mój garnek można obrócić o 180°, więc wkładam chleb na pokrywkę garnka i nakrywam dolną częścią.
-  - Pieczemy pod przykryciem 25 minut w temperaturze 230 stopni, następnie zdejmujemy pokrywkę i grzejemy kolejne 25 minut w tej samej temperaturze.
+  - Pieczemy pod przykryciem 25 minut w temperaturze 230° C, następnie zdejmujemy pokrywkę i grzejemy kolejne 25 minut w tej samej temperaturze.
 porada: 
   Jeden obraz wart jest więcej niż tysiąc słów, a film to już jak cała książka. Dlatego polecam kanał Piotra Kucharskiego na YT, gdzie znajdziecie przepis, który był inspiracją do mojego. Przygotowałem go jednak po swojemu, modyfikując nieco proporcje i składniki.
 ---

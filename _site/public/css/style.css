@@ -311,6 +311,58 @@ footer {
     }
 }
 
+/*SEARCH BOX*/
+
+.search-box {
+    width: 300px;
+    position: relative; /* To jest kluczowe: lista pozycjonuje się względem tego kontenera */
+}
+
+#search-input {
+    width: 100%;
+    padding: 8px;
+    font-size: 14px;
+    box-sizing: border-box;
+    /*border-radius: 20px;
+    border: 1px solid #ddd;*/
+}
+
+#search-results {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    /* Rozwiązanie problemu layoutu: */
+    position: absolute; /* Wyjmuje listę z przepływu - nie przesuwa innych elementów */
+    top: 100%; /* Pojawia się dokładnie pod inputem */
+    left: 0;
+    width: 100%; /* Ma taką samą szerokość jak .search-box */
+    z-index: 1000; /* Gwarantuje, że będzie nad treścią strony */
+
+    /* Estetyka i funkcjonalność: */
+    background: #fff;
+    border: 1px solid #ddd;
+    border-top: none; /* Łączy wizualnie listę z inputem */
+    max-height: 300px; /* Ogranicza wysokość, by nie zasłonić całej strony */
+    overflow-y: auto; /* Dodaje scroll wewnątrz listy, jeśli jest dużo wyników */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#search-results li {
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+#search-results li:hover {
+    background-color: #f9f9f9; /* Podświetlenie po najechaniu */
+}
+
+#search-results a {
+    text-decoration: none;
+    display: block;
+    color: #333;
+}
+
 /* Responsive Mobile Styles */
 @media (max-width: 768px) {
     body::before {
@@ -378,5 +430,10 @@ footer {
         overflow: hidden;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
         padding-block: 2rem;
+    }
+
+    .search-box {
+        max-width: 155px;
+        position: relative;
     }
 }

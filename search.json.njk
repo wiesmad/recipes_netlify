@@ -1,0 +1,14 @@
+---
+permalink: /search.json
+eleventyExcludeFromCollections: true
+---
+[
+{%- for post in collections.recipes -%}
+  {%- set full_content = post.data.body_description + " " + (post.data.ingredients | string) -%}
+  {
+    "title": {{ post.data.title | dump | safe }},
+    "url": {{ post.url | dump | safe }},
+    "content": {{ full_content | dump | safe }}
+  }{% if not loop.last %},{% endif %}
+{%- endfor -%}
+]

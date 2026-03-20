@@ -6,9 +6,8 @@ seo_description: Proste przepisy na dania wegańskie, makarony, wypieki, chleb i
 ---
 
 <!-- CONTENT -->
-
 <section class="card-grid">
-    {% for recipe in collections.recipes | sort(attribute='data.date') %}
+    {% for recipe in collections.recipes | sort(attribute='data.date') | reverse %}
         {% include "partials/card_grid.njk" %}
     {% endfor %}
 </section>

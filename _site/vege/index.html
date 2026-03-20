@@ -22,6 +22,17 @@
         <header class="main-header">
             <div class="container">
                 <a class="logo" href="/">farfalle</a>
+                <div class="search-box">
+  <input
+    type="search"
+    id="search-input"
+    placeholder="Szukaj przepisu..."
+    autocomplete="off"
+  >
+
+  <ul id="search-results"></ul>
+</div>
+
                 <input type="checkbox" id="nav-checkbox" class="nav-checkbox" />
                 <label
                     for="nav-checkbox"
@@ -153,6 +164,18 @@
     <img
         src="/public/img/brokulowa.webp"
         alt="Zupa brokułowa"
+        decoding="async"
+        loading="lazy">
+    </a>
+</article>
+
+    
+        <article class="card">
+    <h2 class="card-title">Risotto z cukinią</h2>
+    <a href="/risotto-z-cukinia/" class="card-media">
+    <img
+        src="/public/img/risotto-cukinia.webp"
+        alt="Risotto z cukinią"
         decoding="async"
         loading="lazy">
     </a>
