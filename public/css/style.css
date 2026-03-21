@@ -281,7 +281,6 @@ a {
 }
 
 /*ABOUT*/
-
 .about-txt p:first-child {
     text-indent: 1.5em;
 }
@@ -323,8 +322,16 @@ footer {
     padding: 8px;
     font-size: 14px;
     box-sizing: border-box;
-    /*border-radius: 20px;
-    border: 1px solid #ddd;*/
+    /* Define the border here so the size doesn't change on focus */
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color 0.2s ease-in-out;
+}
+
+#search-input:focus {
+    border-color: hotpink; /* Only change the color, not the width */
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(255, 0, 0, 0.1); /* A subtle "halo" */
 }
 
 #search-results {
@@ -379,6 +386,7 @@ footer {
         display: block; /* Show hamburger on mobile */
     }
 
+    /*slide menu */
     .nav {
         display: flex; /* Hide menu by default */
         position: fixed;
@@ -389,8 +397,21 @@ footer {
         background: #f9f9f9;
         flex-direction: column;
         padding: 80px 20px 20px;
-        box-shadow: 5 0px 15px rgba(0, 0, 0, 0.05);
+        box-shadow: 5px 0px 15px rgba(0, 0, 0, 0.05);
         z-index: 1000;
+        transition: transform 0.3s ease;
+
+        /*X button*/
+        .close-menu {
+            position: absolute;
+            top: 15px; /* Odstęp od góry menu */
+            right: 20px; /* Odstęp od prawej krawędzi menu */
+            font-size: 35px;
+            cursor: pointer;
+            color: #333;
+            line-height: 1;
+            display: block;
+        }
 
         a {
             margin: 10px 0;
@@ -398,7 +419,7 @@ footer {
         }
     }
 
-    /* The "Magic": When checkbox is checked, show the nav */
+    /* When checkbox is checked, show the nav */
     .nav-checkbox:checked ~ .nav {
         transform: translateX(280px);
     }
@@ -409,6 +430,10 @@ footer {
     }
 
     .page-title {
+        padding-inline: 1rem;
+    }
+
+    .card-grid {
         padding-inline: 1rem;
     }
 
@@ -429,7 +454,7 @@ footer {
         border-radius: 6px;
         overflow: hidden;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-        padding-block: 2rem;
+        padding: 2rem 1rem;
     }
 
     .search-box {

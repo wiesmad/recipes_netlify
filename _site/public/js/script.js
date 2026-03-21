@@ -16,7 +16,7 @@ const input = document.getElementById("search-input");
 const results = document.getElementById("search-results");
 
 input.addEventListener("input", function () {
-  // Czyszczenie poprzedniego timeoutu (Debouncing)
+  // Czyszczenie poprzedniego timeout (Debouncing)
   clearTimeout(timeout);
 
   timeout = setTimeout(() => {
