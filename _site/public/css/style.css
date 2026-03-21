@@ -126,6 +126,10 @@ a {
     user-select: none;
 }
 
+.close-menu {
+    display: none;
+}
+
 .page-title {
     margin-bottom: 2rem;
 
