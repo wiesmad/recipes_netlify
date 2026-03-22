@@ -1,3 +1,23 @@
+// SCROLL BUTTON HANDLING
+const btn = document.getElementById("scrollTopBtn");
+
+// pokazuj po przewinięciu
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 300) {
+    btn.classList.add("visible");
+  } else {
+    btn.classList.remove("visible");
+  }
+});
+
+// klik → smooth scroll do góry
+btn.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+});
+
 // SEARCH BOX HANDLING
 let posts = [];
 let timeout = null;

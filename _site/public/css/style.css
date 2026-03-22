@@ -152,6 +152,39 @@ a {
     pointer-events: auto;
 }
 
+/*Scroll button*/
+
+#scrollTopBtn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 1000;
+
+    width: 48px;
+    height: 48px;
+    border: none;
+    border-radius: 50%;
+    background: hotpink;
+    color: black;
+    font-size: 30px;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+#scrollTopBtn.visible {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+#scrollTopBtn:hover {
+    background: transparent;
+    border: 2px solid hotpink;
+}
+
+/**/
+
 .page-title {
     margin-bottom: 2rem;
 
