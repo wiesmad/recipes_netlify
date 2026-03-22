@@ -8,7 +8,7 @@ schemaTime: PT15M
 porcje: 4
 kalorie: ~1450
 poziom: średni
-tags: ['vege']
+tags: ['makaron', 'italy', 'włochy']
 image: makaron-kurczak.webp
 imageAlt: makaron linguine z kurczakiem i pomidorami.
 seo_description: Szybki i prosty pomysł na pełnowarotściowy obiad z makaronu.

@@ -35,3 +35,30 @@ Co sprzyja dobrej emulsji
 Użycie niewielkiej ilości wody z makaronu (nie za dużo).
 Intensywne mieszanie.
 Dodawanie tłuszczu na końcu, a nie na bardzo wysokim ogniu.W skrócie: emulgowanie sprawia, że sos „oblepia” makaron, zamiast z niego spływać.
+
+
+ <input type="checkbox" id="nav-checkbox" class="nav-checkbox"/>
+                <label
+                    for="nav-checkbox"
+                    class="nav-toggle"
+                    aria-label="Toggle navigation"
+                >
+                    ☰
+                </label>
+
+<label for="nav-checkbox" class="close-menu">&times;</label>
+
+.nav-checkbox {
+    display: none; /* Hide the actual checkbox */
+}
+
+.nav-toggle {
+    display: none; /* Hide toggle on desktop */
+    font-size: 1.5rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.close-menu {
+    display: none;
+}

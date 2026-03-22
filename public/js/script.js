@@ -1,3 +1,4 @@
+// SEARCH BOX HANDLING
 let posts = [];
 let timeout = null;
 

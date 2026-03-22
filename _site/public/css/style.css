@@ -115,6 +115,8 @@ a {
     }
 }
 
+/*Hamburger menu*/
+
 .nav-checkbox {
     display: none; /* Hide the actual checkbox */
 }
@@ -128,6 +130,26 @@ a {
 
 .close-menu {
     display: none;
+}
+
+.nav-checkbox {
+    display: none;
+}
+
+/* overlay – domyślnie niewidoczny */
+.nav-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.3);
+    opacity: 0;
+    pointer-events: none;
+    transition: 0.3s;
+}
+
+/* aktywacja overlay */
+.nav-checkbox:checked ~ .nav-overlay {
+    opacity: 1;
+    pointer-events: auto;
 }
 
 .page-title {
