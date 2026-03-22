@@ -8,7 +8,7 @@ schemaTime: PT12H
 porcje: 8-10
 kalorie: ~1550
 poziom: średni
-tags: ['wypieki']
+tags: ['wypieki', 'keto']
 image: chleb-farmerski.webp
 imageAlt: pokrojony chrupiący chleb farmerski na desce
 seo_description: Przepis na domowy, zdrowy, pszenny chleb na zakwasie z chrupiącą skórką. Wszyscy go uwielbiają.

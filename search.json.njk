@@ -4,7 +4,11 @@ eleventyExcludeFromCollections: true
 ---
 [
 {%- for post in collections.recipes -%}
-  {%- set full_content = post.data.body_description + " " + (post.data.ingredients | string) -%}
+  {%- set full_content = post.data.body_description
+  + " "
+  + (post.data.ingredients | string)
+  + " "
+  + (post.data.tags or [] | join(" ")) -%}
   {
     "title": {{ post.data.title | dump | safe }},
     "url": {{ post.url | dump | safe }},
