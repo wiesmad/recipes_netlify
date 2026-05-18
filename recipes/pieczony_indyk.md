@@ -8,7 +8,7 @@ schemaTime: PT3H
 porcje: 2-3
 kalorie: ~450
 poziom: średni
-tags: ['mięso']
+tags: ['mięso', 'keto']
 image: filet-indyka-pieczony.webp
 imageAlt: pieczony filet z indyka z sosem śmietanowym
 seo_description: Soczysty filet z indyka z sosem śmietanowym i szuszonymi pomidorami.

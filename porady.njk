@@ -1,0 +1,17 @@
+---
+layout: base.njk
+title: Porady
+permalink: /porady/
+seo_title: Porady | Farfalle
+seo_description: wujek Dobra Rada radzi
+---
+
+<!-- CONTENT -->
+
+<ul>
+{% for post in collections.recipes %}
+  <li>
+    <p>{{ post.data.porada }}</p>
+  </li>
+{% endfor %}
+</ul>

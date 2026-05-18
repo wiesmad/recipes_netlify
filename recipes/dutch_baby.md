@@ -8,7 +8,7 @@ schemaTime: PT30M
 porcje: 2
 kalorie: ~920
 poziom: łatwy
-tags: ['wypieki']
+tags: ['wypieki', 'śniadanie']
 image: dutch-baby.webp
 imageAlt: pieczony naleśnik dutch baby z owocami
 seo_description: Czyli pieczony naleśnik po amerykańsku.
