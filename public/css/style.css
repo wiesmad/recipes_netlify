@@ -1,14 +1,16 @@
+/* RESET & BASE */
 *,
-*:before,
-*:after {
+*::before,
+*::after {
     box-sizing: border-box;
     margin: 0;
+    padding: 0;
 }
 
-/*VARIABLES*/
 :root {
     --color-logo: hotpink;
-    --min-col-size: 280px; /*recipe-grid*/
+    --min-col-size: 280px; /* recipe-grid */
+    --color-text-secondary: #666;
 }
 
 @font-face {
@@ -23,12 +25,9 @@
     font-display: swap;
 }
 
-/*GENERAL*/
 html,
 body {
     height: 100%;
-    margin: 0;
-    padding: 0;
 }
 
 body {
@@ -44,7 +43,6 @@ body {
         Roboto,
         Arial,
         sans-serif;
-    /*overflow-x: hidden;*/
 }
 
 body::before {
@@ -61,6 +59,7 @@ main {
     flex: 1;
 }
 
+/* TYPOGRAPHY */
 h1 {
     font-size: 1.2rem;
     font-weight: 600;
@@ -74,11 +73,12 @@ h3 {
 }
 
 a {
-    color: inherit; /* Przejmuje kolor od rodzica */
-    text-decoration: none; /* Usuwa podkreślenie */
+    color: inherit;
+    text-decoration: none;
     cursor: pointer;
 }
 
+/* LAYOUT & CONTAINERS */
 .container {
     width: 100%;
     max-width: 1200px;
@@ -102,56 +102,46 @@ a {
     font-size: 3rem;
     font-weight: 800;
     color: var(--color-logo);
-    margin: 0;
 }
 
 .nav {
     display: flex;
     gap: 1rem;
-
-    a:hover,
-    a:focus {
-        color: var(--color-logo);
-    }
 }
 
-/*Hamburger menu*/
-.nav-checkbox {
-    display: none; /* Hide the actual checkbox */
+.nav a:hover,
+.nav a:focus {
+    color: var(--color-logo);
+}
+
+/* NAVIGATION TOGGLE (HAMBURGER) */
+.nav-checkbox,
+.nav-toggle,
+.close-menu {
+    display: none;
 }
 
 .nav-toggle {
-    display: none; /* Hide toggle on desktop */
     font-size: 1.5rem;
     cursor: pointer;
     user-select: none;
 }
 
-.close-menu {
-    display: none;
-}
-
-.nav-checkbox {
-    display: none;
-}
-
-/* overlay – domyślnie niewidoczny */
 .nav-overlay {
     position: fixed;
     inset: 0;
     background: rgba(0, 0, 0, 0.3);
     opacity: 0;
     pointer-events: none;
-    transition: 0.3s;
+    transition: opacity 0.3s ease;
 }
 
-/* aktywacja overlay */
 .nav-checkbox:checked ~ .nav-overlay {
     opacity: 1;
     pointer-events: auto;
 }
 
-/*Scroll button*/
+/* SCROLL TO TOP BUTTON */
 #scrollTopBtn {
     position: fixed;
     bottom: 20px;
@@ -159,7 +149,7 @@ a {
     z-index: 1000;
     width: 48px;
     height: 48px;
-    border: 3px solid hotpink;
+    border: 3px solid var(--color-logo);
     border-radius: 50%;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
     background: beige;
@@ -168,7 +158,10 @@ a {
     cursor: pointer;
     opacity: 0;
     pointer-events: none;
-    transition: opacity 0.3s ease;
+    transition:
+        opacity 0.3s ease,
+        background-color 0.3s ease,
+        border-size 0.3s ease;
 }
 
 #scrollTopBtn.visible {
@@ -177,57 +170,55 @@ a {
 }
 
 #scrollTopBtn:hover {
-    background: hotpink;
-    border: 2px solid hotpink;
+    background: var(--color-logo);
+    border: 2px solid var(--color-logo);
 }
 
-/**/
-
+/* PAGE ELEMENTS */
 .page-title {
     margin-bottom: 2rem;
-
-    p {
-        font-size: 0.9rem;
-        font-weight: 400;
-        font-style: italic;
-        padding-top: 0.5rem;
-        color: var(--color-text-secondary);
-    }
 }
 
-/*INDEX, WYPIEKI, VEGE*/
-.card {
-    display: flex;
-    flex-direction: column;
-    background: rgb(237, 237, 237, 0.9);
-    border-radius: 6px;
-    overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-
-    :hover {
-        transform: scale(1.02);
-        transition: transform 0.3s ease-in-out;
-    }
+.page-title p {
+    font-size: 0.9rem;
+    font-weight: 400;
+    font-style: italic;
+    padding-top: 0.5rem;
+    color: var(--color-text-secondary);
 }
 
+/* CARDS & GRID */
 .card-grid {
     display: grid;
     gap: 2rem;
-
     grid-template-columns: repeat(
         auto-fit,
         minmax(min(var(--min-col-size), 100%), 1fr)
     );
 }
 
+.card {
+    display: flex;
+    flex-direction: column;
+    background: rgba(237, 237, 237, 0.9);
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
 .card-media {
     display: flex;
+}
 
-    img {
-        width: 100%;
-        aspect-ratio: 1 / 1;
-        object-fit: cover;
-    }
+.card-media img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
 }
 
 .card-title {
@@ -236,9 +227,9 @@ a {
     padding: 1rem;
 }
 
-/*RECIPE CONTENT*/
+/* RECIPE CONTENT */
 .recipe {
-    background: rgb(237, 237, 237, 0.9);
+    background: rgba(237, 237, 237, 0.9);
     border-radius: 6px;
     overflow: hidden;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -246,31 +237,28 @@ a {
 
 .recipe-hero {
     display: grid;
-    grid-template-columns: 1fr 1fr; /* Tworzy dwie równe kolumny */
+    grid-template-columns: 1fr 1fr;
     gap: 2rem;
     margin-bottom: 2rem;
-
-    img {
-        width: 100%;
-        height: auto;
-    }
 }
 
-.recipe-data {
-    p.description {
-        padding-inline: 1rem;
-        padding-top: 3rem;
-        text-indent: 1.5em;
-    }
+.recipe-hero img {
+    width: 100%;
+    height: auto;
+}
+
+.recipe-data p.description {
+    padding-inline: 1rem;
+    padding-top: 3rem;
+    text-indent: 1.5em;
 }
 
 .recipe-meta {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-family: "Montserrat", sans-serif;
     padding: 20px 0;
-    border-bottom: 1px solid #e0e0e0; /* Dolna linia */
+    border-bottom: 1px solid #e0e0e0;
     max-width: 800px;
     margin: 0 auto;
 }
@@ -281,30 +269,29 @@ a {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-    border-right: 1px solid #e0e0e0; /* Pionowe linie rozdzielające */
-
-    svg {
-        width: 3rem;
-        height: 1.5rem;
-        stroke: var(--color-logo);
-        fill: transparent;
-    }
+    border-right: 1px solid #e0e0e0;
 }
 
-/* Usuwamy linię z ostatniego elementu po prawej */
 .meta-item:last-child {
     border-right: none;
 }
 
+.meta-item svg {
+    width: 3rem;
+    height: 1.5rem;
+    stroke: var(--color-logo);
+    fill: transparent;
+}
+
 .icon {
-    color: hotpink; /* Ten charakterystyczny morski kolor z obrazka */
+    color: var(--color-logo);
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .label {
-    color: #375a64; /* Ciemny, stalowy kolor tekstu */
+    color: #375a64;
     font-weight: bold;
     font-size: 0.8rem;
     letter-spacing: 1px;
@@ -313,31 +300,29 @@ a {
 
 .recipe-instruction {
     padding: 1rem;
-
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        margin-bottom: 1rem;
-    }
-
-    ul.ingredients {
-        line-height: 2;
-    }
-
-    p {
-        padding-bottom: 1rem;
-    }
-
-    img {
-        width: 100%;
-        aspect-ratio: 1 / 1;
-        object-fit: cover;
-        border-radius: 6px;
-    }
 }
 
-/*ABOUT*/
+.recipe-instruction ul {
+    list-style-type: none;
+    margin-bottom: 1rem;
+}
+
+.recipe-instruction ul.ingredients {
+    line-height: 2;
+}
+
+.recipe-instruction p {
+    padding-bottom: 1rem;
+}
+
+.recipe-instruction img {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+/* ABOUT */
 .about-txt p:first-child {
     text-indent: 1.5em;
 }
@@ -348,67 +333,53 @@ a {
 
 .write-me {
     padding-top: 3rem;
+}
 
-    a:hover {
-        color: var(--color-logo);
-    }
+.write-me a:hover {
+    color: var(--color-logo);
 }
 
 footer {
-    background: rgb(235, 235, 235, 0.9);
-    /*color: #ffffff;*/
+    background: rgba(235, 235, 235, 0.9);
     text-align: center;
     font-size: 0.8rem;
     margin-top: 1rem;
     padding: 0.5rem 0;
-
-    p {
-        margin: 0;
-    }
 }
 
-/*SEARCH BOX*/
-
+/* SEARCH BOX */
 .search-box {
     width: 300px;
-    position: relative; /* To jest kluczowe: lista pozycjonuje się względem tego kontenera */
+    position: relative;
 }
 
 #search-input {
     width: 100%;
     padding: 8px;
     font-size: 14px;
-    box-sizing: border-box;
-    /* Define the border here so the size doesn't change on focus */
     border: 1px solid #ccc;
     border-radius: 4px;
     transition: border-color 0.2s ease-in-out;
 }
 
 #search-input:focus {
-    border-color: hotpink; /* Only change the color, not the width */
+    border-color: var(--color-logo);
     outline: none;
-    box-shadow: 0 0 0 2px rgba(255, 0, 0, 0.1); /* A subtle "halo" */
+    box-shadow: 0 0 0 2px rgba(255, 105, 180, 0.15);
 }
 
 #search-results {
     list-style: none;
-    margin: 0;
-    padding: 0;
-
-    /* Rozwiązanie problemu layoutu: */
-    position: absolute; /* Wyjmuje listę z przepływu - nie przesuwa innych elementów */
-    top: 100%; /* Pojawia się dokładnie pod inputem */
+    position: absolute;
+    top: 100%;
     left: 0;
-    width: 100%; /* Ma taką samą szerokość jak .search-box */
-    z-index: 1000; /* Gwarantuje, że będzie nad treścią strony */
-
-    /* Estetyka i funkcjonalność: */
+    width: 100%;
+    z-index: 1000;
     background: #fff;
     border: 1px solid #ddd;
-    border-top: none; /* Łączy wizualnie listę z inputem */
-    max-height: 300px; /* Ogranicza wysokość, by nie zasłonić całej strony */
-    overflow-y: auto; /* Dodaje scroll wewnątrz listy, jeśli jest dużo wyników */
+    border-top: none;
+    max-height: 300px;
+    overflow-y: auto;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -418,11 +389,10 @@ footer {
 }
 
 #search-results li:hover {
-    background-color: #f9f9f9; /* Podświetlenie po najechaniu */
+    background-color: #f9f9f9;
 }
 
 #search-results a {
-    text-decoration: none;
     display: block;
     color: #333;
 }
@@ -430,22 +400,16 @@ footer {
 /* RESPONSIVE MOBILE STYLE */
 @media (max-width: 768px) {
     body::before {
-        content: "";
-        position: fixed;
-        inset: 0;
         background:
             linear-gradient(rgba(255, 255, 255, 0.8), rgba(255, 255, 255, 0.7)),
             url("/public/img/bckgr.webp") top left / cover no-repeat;
-        z-index: -1;
     }
 
     .nav-toggle {
-        display: block; /* Show hamburger on mobile */
+        display: block;
     }
 
-    /*slide menu */
     .nav {
-        display: flex; /* Hide menu by default */
         position: fixed;
         top: 0;
         left: -280px;
@@ -454,29 +418,27 @@ footer {
         background: #f9f9f9;
         flex-direction: column;
         padding: 80px 20px 20px;
-        box-shadow: 5px 0px 15px rgba(0, 0, 0, 0.05);
+        box-shadow: 5px 0 15px rgba(0, 0, 0, 0.05);
         z-index: 1000;
         transition: transform 0.3s ease;
-
-        /*X button*/
-        .close-menu {
-            position: absolute;
-            top: 15px; /* Odstęp od góry menu */
-            right: 20px; /* Odstęp od prawej krawędzi menu */
-            font-size: 35px;
-            cursor: pointer;
-            color: #333;
-            line-height: 1;
-            display: block;
-        }
-
-        a {
-            margin: 10px 0;
-            display: block;
-        }
     }
 
-    /* When checkbox is checked, show the nav */
+    .nav .close-menu {
+        position: absolute;
+        top: 15px;
+        right: 20px;
+        font-size: 35px;
+        cursor: pointer;
+        color: #333;
+        line-height: 1;
+        display: block;
+    }
+
+    .nav a {
+        margin: 10px 0;
+        display: block;
+    }
+
     .nav-checkbox:checked ~ .nav {
         transform: translateX(280px);
     }
@@ -486,10 +448,7 @@ footer {
         padding-inline: 0;
     }
 
-    .page-title {
-        padding-inline: 1rem;
-    }
-
+    .page-title,
     .card-grid {
         padding-inline: 1rem;
     }
@@ -498,16 +457,12 @@ footer {
         grid-template-columns: 1fr;
     }
 
-    .recipe-data {
-        p.description {
-            padding-inline: 1rem;
-            padding-top: 1rem;
-            text-indent: 1.5em;
-        }
+    .recipe-data p.description {
+        padding-top: 1rem;
     }
 
     .about {
-        background: rgb(237, 237, 237, 0.9);
+        background: rgba(237, 237, 237, 0.9);
         border-radius: 6px;
         overflow: hidden;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
@@ -516,6 +471,5 @@ footer {
 
     .search-box {
         max-width: 155px;
-        position: relative;
     }
 }
