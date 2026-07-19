@@ -31,5 +31,5 @@ instructions:
 - Do sosu wbić delikatnie jajka, przykryć patelnię, zmniejszyć gaz i gotować na małym ogniu, aż białka się zetną, a żółtka pozostaną płynne (6–8 minut). 
 - Przełożyć na talerz dużą łyżką, tak aby jajka pozostały w całości.
 extra:
-porada: Kumin to zupełnie inna przyprawa niż nasz europejski kminek. Oprócz podobieństwa w nazwie, niewiele mają ze sobą wspólnego i nie można ich stosować zamiennie. 
+porada: Cumin lub innaczej kmin rzymski, to zupełnie inna przyprawa niż nasz europejski kminek. Oprócz podobieństwa w nazwie, niewiele mają ze sobą wspólnego i nie można ich stosować zamiennie. 
 ---
